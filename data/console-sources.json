@@ -1,0 +1,1390 @@
+{
+  "collectedAt": "2026-11-20",
+  "dimensionConvention": "큐레이터의 화면 표현과 이동 공간 분류이며 엔진 내부 구현 분류가 아님. 2.5D는 입체 표현과 측면 진행 중심, 3D는 입체 공간 이동 중심. 혼합 표현은 classificationNote 참조.",
+  "rightsNote": "이미지는 외부 공식 URL을 참조하며 다운로드 또는 재배포하지 않음. 각 게임 권리는 해당 권리자 소유.",
+  "games": [
+    {
+      "id": "yoshis-crafted-world",
+      "title": "Yoshi’s Crafted World",
+      "titleKo": "요시 크래프트 월드",
+      "dimension": "2.5D",
+      "tags": [
+        "종이 공예",
+        "디오라마",
+        "파스텔",
+        "장난감"
+      ],
+      "camera": "측면",
+      "classificationNote": "측면 중심; 일부 깊이 이동과 시점 전환",
+      "sourceUrl": "https://www.nintendo.com/en-gb/Games/Nintendo-Switch-games/Yoshi-s-Crafted-World-1233953.html",
+      "sourceName": "Nintendo 공식 사이트",
+      "credit": "© Nintendo / Good-Feel",
+      "screenshots": [
+        {
+          "id": "yoshis-crafted-world-001",
+          "url": "https://www.nintendo.com/eu/media/images/06_screenshots/games_5/nintendo_switch_6/nswitch_yoshiscraftedworld_2/NSwitch_YoshisCraftedWorld_08.jpg",
+          "thumbnailUrl": "https://www.nintendo.com/eu/media/images/06_screenshots/games_5/nintendo_switch_6/nswitch_yoshiscraftedworld_2/NSwitch_YoshisCraftedWorld_08.jpg",
+          "sourceUrl": "https://www.nintendo.com/en-gb/Games/Nintendo-Switch-games/Yoshi-s-Crafted-World-1233953.html",
+          "alt": "Yoshi’s Crafted World 플레이 화면 1",
+          "kind": "gameplay",
+          "contentVerified": "이미지를 직접 열어 스테이지 플레이 화면 확인"
+        },
+        {
+          "id": "yoshis-crafted-world-002",
+          "url": "https://www.nintendo.com/eu/media/images/06_screenshots/games_5/nintendo_switch_6/nswitch_yoshiscraftedworld_2/NSwitch_YoshisCraftedWorld_04.jpg",
+          "thumbnailUrl": "https://www.nintendo.com/eu/media/images/06_screenshots/games_5/nintendo_switch_6/nswitch_yoshiscraftedworld_2/NSwitch_YoshisCraftedWorld_04.jpg",
+          "sourceUrl": "https://www.nintendo.com/en-gb/Games/Nintendo-Switch-games/Yoshi-s-Crafted-World-1233953.html",
+          "alt": "Yoshi’s Crafted World 플레이 화면 2",
+          "kind": "gameplay",
+          "contentVerified": "이미지를 직접 열어 스테이지 플레이 화면 확인"
+        },
+        {
+          "id": "yoshis-crafted-world-003",
+          "url": "https://www.nintendo.com/eu/media/images/06_screenshots/games_5/nintendo_switch_6/nswitch_yoshiscraftedworld_2/NSwitch_YoshisCraftedWorld_12.jpg",
+          "thumbnailUrl": "https://www.nintendo.com/eu/media/images/06_screenshots/games_5/nintendo_switch_6/nswitch_yoshiscraftedworld_2/NSwitch_YoshisCraftedWorld_12.jpg",
+          "sourceUrl": "https://www.nintendo.com/en-gb/Games/Nintendo-Switch-games/Yoshi-s-Crafted-World-1233953.html",
+          "alt": "Yoshi’s Crafted World 플레이 화면 3",
+          "kind": "gameplay",
+          "contentVerified": "이미지를 직접 열어 스테이지 플레이 화면 확인"
+        },
+        {
+          "id": "yoshis-crafted-world-004",
+          "url": "https://www.nintendo.com/eu/media/images/06_screenshots/games_5/nintendo_switch_6/nswitch_yoshiscraftedworld_2/NSwitch_YoshisCraftedWorld_03.jpg",
+          "thumbnailUrl": "https://www.nintendo.com/eu/media/images/06_screenshots/games_5/nintendo_switch_6/nswitch_yoshiscraftedworld_2/NSwitch_YoshisCraftedWorld_03.jpg",
+          "sourceUrl": "https://www.nintendo.com/en-gb/Games/Nintendo-Switch-games/Yoshi-s-Crafted-World-1233953.html",
+          "alt": "Yoshi’s Crafted World 플레이 화면 4",
+          "kind": "gameplay",
+          "contentVerified": "이미지를 직접 열어 스테이지 플레이 화면 확인"
+        },
+        {
+          "id": "yoshis-crafted-world-005",
+          "url": "https://www.nintendo.com/eu/media/images/06_screenshots/games_5/nintendo_switch_6/nswitch_yoshiscraftedworld_2/NSwitch_YoshisCraftedWorld_05.jpg",
+          "thumbnailUrl": "https://www.nintendo.com/eu/media/images/06_screenshots/games_5/nintendo_switch_6/nswitch_yoshiscraftedworld_2/NSwitch_YoshisCraftedWorld_05.jpg",
+          "sourceUrl": "https://www.nintendo.com/en-gb/Games/Nintendo-Switch-games/Yoshi-s-Crafted-World-1233953.html",
+          "alt": "Yoshi’s Crafted World 플레이 화면 5",
+          "kind": "gameplay",
+          "contentVerified": "이미지를 직접 열어 스테이지 플레이 화면 확인"
+        },
+        {
+          "id": "yoshis-crafted-world-006",
+          "url": "https://www.nintendo.com/eu/media/images/06_screenshots/games_5/nintendo_switch_6/nswitch_yoshiscraftedworld_2/NSwitch_YoshisCraftedWorld_06.jpg",
+          "thumbnailUrl": "https://www.nintendo.com/eu/media/images/06_screenshots/games_5/nintendo_switch_6/nswitch_yoshiscraftedworld_2/NSwitch_YoshisCraftedWorld_06.jpg",
+          "sourceUrl": "https://www.nintendo.com/en-gb/Games/Nintendo-Switch-games/Yoshi-s-Crafted-World-1233953.html",
+          "alt": "Yoshi’s Crafted World 플레이 화면 6",
+          "kind": "gameplay",
+          "contentVerified": "이미지를 직접 열어 스테이지 플레이 화면 확인"
+        },
+        {
+          "id": "yoshis-crafted-world-007",
+          "url": "https://www.nintendo.com/eu/media/images/06_screenshots/games_5/nintendo_switch_6/nswitch_yoshiscraftedworld_2/NSwitch_YoshisCraftedWorld_07.jpg",
+          "thumbnailUrl": "https://www.nintendo.com/eu/media/images/06_screenshots/games_5/nintendo_switch_6/nswitch_yoshiscraftedworld_2/NSwitch_YoshisCraftedWorld_07.jpg",
+          "sourceUrl": "https://www.nintendo.com/en-gb/Games/Nintendo-Switch-games/Yoshi-s-Crafted-World-1233953.html",
+          "alt": "Yoshi’s Crafted World 플레이 화면 7",
+          "kind": "gameplay",
+          "contentVerified": "이미지를 직접 열어 스테이지 플레이 화면 확인"
+        },
+        {
+          "id": "yoshis-crafted-world-008",
+          "url": "https://www.nintendo.com/eu/media/images/06_screenshots/games_5/nintendo_switch_6/nswitch_yoshiscraftedworld_2/NSwitch_YoshisCraftedWorld_09.jpg",
+          "thumbnailUrl": "https://www.nintendo.com/eu/media/images/06_screenshots/games_5/nintendo_switch_6/nswitch_yoshiscraftedworld_2/NSwitch_YoshisCraftedWorld_09.jpg",
+          "sourceUrl": "https://www.nintendo.com/en-gb/Games/Nintendo-Switch-games/Yoshi-s-Crafted-World-1233953.html",
+          "alt": "Yoshi’s Crafted World 플레이 화면 8",
+          "kind": "gameplay",
+          "contentVerified": "이미지를 직접 열어 스테이지 플레이 화면 확인"
+        },
+        {
+          "id": "yoshis-crafted-world-009",
+          "url": "https://www.nintendo.com/eu/media/images/06_screenshots/games_5/nintendo_switch_6/nswitch_yoshiscraftedworld_2/NSwitch_YoshisCraftedWorld_10.jpg",
+          "thumbnailUrl": "https://www.nintendo.com/eu/media/images/06_screenshots/games_5/nintendo_switch_6/nswitch_yoshiscraftedworld_2/NSwitch_YoshisCraftedWorld_10.jpg",
+          "sourceUrl": "https://www.nintendo.com/en-gb/Games/Nintendo-Switch-games/Yoshi-s-Crafted-World-1233953.html",
+          "alt": "Yoshi’s Crafted World 플레이 화면 9",
+          "kind": "gameplay",
+          "contentVerified": "이미지를 직접 열어 스테이지 플레이 화면 확인"
+        },
+        {
+          "id": "yoshis-crafted-world-010",
+          "url": "https://www.nintendo.com/eu/media/images/06_screenshots/games_5/nintendo_switch_6/nswitch_yoshiscraftedworld_2/NSwitch_YoshisCraftedWorld_11.jpg",
+          "thumbnailUrl": "https://www.nintendo.com/eu/media/images/06_screenshots/games_5/nintendo_switch_6/nswitch_yoshiscraftedworld_2/NSwitch_YoshisCraftedWorld_11.jpg",
+          "sourceUrl": "https://www.nintendo.com/en-gb/Games/Nintendo-Switch-games/Yoshi-s-Crafted-World-1233953.html",
+          "alt": "Yoshi’s Crafted World 플레이 화면 10",
+          "kind": "gameplay",
+          "contentVerified": "이미지를 직접 열어 스테이지 플레이 화면 확인"
+        },
+        {
+          "id": "yoshis-crafted-world-011",
+          "url": "https://www.nintendo.com/eu/media/images/06_screenshots/games_5/nintendo_switch_6/nswitch_yoshiscraftedworld_2/NSwitch_YoshisCraftedWorld_02.jpg",
+          "thumbnailUrl": "https://www.nintendo.com/eu/media/images/06_screenshots/games_5/nintendo_switch_6/nswitch_yoshiscraftedworld_2/NSwitch_YoshisCraftedWorld_02.jpg",
+          "sourceUrl": "https://www.nintendo.com/en-gb/Games/Nintendo-Switch-games/Yoshi-s-Crafted-World-1233953.html",
+          "alt": "Yoshi’s Crafted World 플레이 화면 11",
+          "kind": "gameplay",
+          "contentVerified": "이미지를 직접 열어 스테이지 플레이 화면 확인"
+        },
+        {
+          "id": "yoshis-crafted-world-012",
+          "url": "https://www.nintendo.com/eu/media/images/06_screenshots/games_5/nintendo_switch_6/nswitch_yoshiscraftedworld_2/NSwitch_YoshisCraftedWorld_01.jpg",
+          "thumbnailUrl": "https://www.nintendo.com/eu/media/images/06_screenshots/games_5/nintendo_switch_6/nswitch_yoshiscraftedworld_2/NSwitch_YoshisCraftedWorld_01.jpg",
+          "sourceUrl": "https://www.nintendo.com/en-gb/Games/Nintendo-Switch-games/Yoshi-s-Crafted-World-1233953.html",
+          "alt": "Yoshi’s Crafted World 플레이 화면 12",
+          "kind": "gameplay",
+          "contentVerified": "이미지를 직접 열어 스테이지 플레이 화면 확인"
+        }
+      ],
+      "contentReviewNote": "기존 SG 갤러리의 스토리 컷 5장을 제거하고 UK 공식 스크린샷 12장으로 교체. 12장 모두 직접 열어 플랫폼 이동, 조준, 동전, 변신, 열차 스테이지 화면을 확인. 표지는 꽃 발판 점프 장면."
+    },
+    {
+      "id": "kirbys-return-to-dream-land-deluxe",
+      "title": "Kirby’s Return to Dream Land Deluxe",
+      "titleKo": "별의 커비 Wii 디럭스",
+      "dimension": "2.5D",
+      "tags": [
+        "카툰",
+        "외곽선",
+        "선명한 색",
+        "동화풍"
+      ],
+      "camera": "측면",
+      "classificationNote": "입체 캐릭터와 배경을 사용하는 측면 플랫포머",
+      "sourceUrl": "https://www.nintendo.com/en-gb/Games/Nintendo-Switch-games/Kirby-s-Return-to-Dream-Land-Deluxe-2267334.html",
+      "sourceName": "Nintendo 공식 사이트",
+      "credit": "© Nintendo / HAL Laboratory, Inc.",
+      "screenshots": [
+        {
+          "id": "kirbys-return-to-dream-land-deluxe-001",
+          "url": "https://www.nintendo.com/eu/media/images/08_content_images/games_6/nintendo_switch_7/nswitch_kirbysreturntodreamlanddeluxe/KirbysReturnToDreamLandDeluxe_Magolor_Scr01.jpg",
+          "thumbnailUrl": "https://www.nintendo.com/eu/media/images/08_content_images/games_6/nintendo_switch_7/nswitch_kirbysreturntodreamlanddeluxe/KirbysReturnToDreamLandDeluxe_Magolor_Scr01.jpg",
+          "sourceUrl": "https://www.nintendo.com/en-gb/Games/Nintendo-Switch-games/Kirby-s-Return-to-Dream-Land-Deluxe-2267334.html",
+          "alt": "Kirby’s Return to Dream Land Deluxe 플레이 화면 1",
+          "kind": "gameplay",
+          "contentVerified": "이미지를 직접 열어 스테이지 플레이 화면 확인"
+        },
+        {
+          "id": "kirbys-return-to-dream-land-deluxe-002",
+          "url": "https://www.nintendo.com/eu/media/images/08_content_images/games_6/nintendo_switch_7/nswitch_kirbysreturntodreamlanddeluxe/KirbysReturnToDreamLandDeluxe_Fourtimes_Scr01.jpg",
+          "thumbnailUrl": "https://www.nintendo.com/eu/media/images/08_content_images/games_6/nintendo_switch_7/nswitch_kirbysreturntodreamlanddeluxe/KirbysReturnToDreamLandDeluxe_Fourtimes_Scr01.jpg",
+          "sourceUrl": "https://www.nintendo.com/en-gb/Games/Nintendo-Switch-games/Kirby-s-Return-to-Dream-Land-Deluxe-2267334.html",
+          "alt": "Kirby’s Return to Dream Land Deluxe 플레이 화면 2",
+          "kind": "gameplay",
+          "contentVerified": "이미지를 직접 열어 스테이지 플레이 화면 확인"
+        },
+        {
+          "id": "kirbys-return-to-dream-land-deluxe-003",
+          "url": "https://www.nintendo.com/eu/media/images/08_content_images/games_6/nintendo_switch_7/nswitch_kirbysreturntodreamlanddeluxe/KirbysReturnToDreamLandDeluxe_Fourtimes_Scr02.jpg",
+          "thumbnailUrl": "https://www.nintendo.com/eu/media/images/08_content_images/games_6/nintendo_switch_7/nswitch_kirbysreturntodreamlanddeluxe/KirbysReturnToDreamLandDeluxe_Fourtimes_Scr02.jpg",
+          "sourceUrl": "https://www.nintendo.com/en-gb/Games/Nintendo-Switch-games/Kirby-s-Return-to-Dream-Land-Deluxe-2267334.html",
+          "alt": "Kirby’s Return to Dream Land Deluxe 플레이 화면 3",
+          "kind": "gameplay",
+          "contentVerified": "이미지를 직접 열어 스테이지 플레이 화면 확인"
+        },
+        {
+          "id": "kirbys-return-to-dream-land-deluxe-004",
+          "url": "https://www.nintendo.com/eu/media/images/08_content_images/games_6/nintendo_switch_7/nswitch_kirbysreturntodreamlanddeluxe/KirbysReturnToDreamLandDeluxe_Magolor_ImgSlider_Scr01.jpg",
+          "thumbnailUrl": "https://www.nintendo.com/eu/media/images/08_content_images/games_6/nintendo_switch_7/nswitch_kirbysreturntodreamlanddeluxe/KirbysReturnToDreamLandDeluxe_Magolor_ImgSlider_Scr01.jpg",
+          "sourceUrl": "https://www.nintendo.com/en-gb/Games/Nintendo-Switch-games/Kirby-s-Return-to-Dream-Land-Deluxe-2267334.html",
+          "alt": "Kirby’s Return to Dream Land Deluxe 플레이 화면 4",
+          "kind": "gameplay",
+          "contentVerified": "이미지를 직접 열어 스테이지 플레이 화면 확인"
+        },
+        {
+          "id": "kirbys-return-to-dream-land-deluxe-005",
+          "url": "https://www.nintendo.com/eu/media/images/08_content_images/games_6/nintendo_switch_7/nswitch_kirbysreturntodreamlanddeluxe/KirbysReturnToDreamLandDeluxe_Magolor_ImgSlider_Scr02.jpg",
+          "thumbnailUrl": "https://www.nintendo.com/eu/media/images/08_content_images/games_6/nintendo_switch_7/nswitch_kirbysreturntodreamlanddeluxe/KirbysReturnToDreamLandDeluxe_Magolor_ImgSlider_Scr02.jpg",
+          "sourceUrl": "https://www.nintendo.com/en-gb/Games/Nintendo-Switch-games/Kirby-s-Return-to-Dream-Land-Deluxe-2267334.html",
+          "alt": "Kirby’s Return to Dream Land Deluxe 플레이 화면 5",
+          "kind": "gameplay",
+          "contentVerified": "이미지를 직접 열어 스테이지 플레이 화면 확인"
+        },
+        {
+          "id": "kirbys-return-to-dream-land-deluxe-006",
+          "url": "https://www.nintendo.com/eu/media/images/08_content_images/games_6/nintendo_switch_7/nswitch_kirbysreturntodreamlanddeluxe/KirbysReturnToDreamLandDeluxe_Magolor_ImgSlider_Scr03.jpg",
+          "thumbnailUrl": "https://www.nintendo.com/eu/media/images/08_content_images/games_6/nintendo_switch_7/nswitch_kirbysreturntodreamlanddeluxe/KirbysReturnToDreamLandDeluxe_Magolor_ImgSlider_Scr03.jpg",
+          "sourceUrl": "https://www.nintendo.com/en-gb/Games/Nintendo-Switch-games/Kirby-s-Return-to-Dream-Land-Deluxe-2267334.html",
+          "alt": "Kirby’s Return to Dream Land Deluxe 플레이 화면 6",
+          "kind": "gameplay",
+          "contentVerified": "이미지를 직접 열어 스테이지 플레이 화면 확인"
+        },
+        {
+          "id": "kirbys-return-to-dream-land-deluxe-007",
+          "url": "https://www.nintendo.com/sg/switch/a2jy/img/car4.jpg",
+          "thumbnailUrl": "https://www.nintendo.com/sg/switch/a2jy/img/car4.jpg",
+          "sourceUrl": "https://www.nintendo.com/sg/switch/a2jy/index.html",
+          "alt": "Kirby’s Return to Dream Land Deluxe 플레이 화면 7",
+          "kind": "gameplay",
+          "contentVerified": "이미지를 직접 열어 스테이지 플레이 화면 확인"
+        },
+        {
+          "id": "kirbys-return-to-dream-land-deluxe-008",
+          "url": "https://www.nintendo.com/sg/switch/a2jy/img/car5.png",
+          "thumbnailUrl": "https://www.nintendo.com/sg/switch/a2jy/img/car5.png",
+          "sourceUrl": "https://www.nintendo.com/sg/switch/a2jy/index.html",
+          "alt": "Kirby’s Return to Dream Land Deluxe 플레이 화면 8",
+          "kind": "gameplay",
+          "contentVerified": "이미지를 직접 열어 스테이지 플레이 화면 확인"
+        },
+        {
+          "id": "kirbys-return-to-dream-land-deluxe-009",
+          "url": "https://www.nintendo.com/sg/switch/a2jy/img/car6.jpg",
+          "thumbnailUrl": "https://www.nintendo.com/sg/switch/a2jy/img/car6.jpg",
+          "sourceUrl": "https://www.nintendo.com/sg/switch/a2jy/index.html",
+          "alt": "Kirby’s Return to Dream Land Deluxe 플레이 화면 9",
+          "kind": "gameplay",
+          "contentVerified": "이미지를 직접 열어 스테이지 플레이 화면 확인"
+        }
+      ],
+      "contentReviewNote": "모든 장면을 직접 확인. Merry Magoland, 마버로아 이야기 컷신, 월드 이동, 에필로그 연출을 제외. 숲, 설원, 화산, 동굴, 보스전 플레이 9장. 중복 화면의 SG/UK 두 버전은 하나만 유지."
+    },
+    {
+      "id": "kirby-and-the-forgotten-land",
+      "title": "Kirby and the Forgotten Land",
+      "titleKo": "별의 커비 디스커버리",
+      "dimension": "3D",
+      "tags": [
+        "둥근 형태",
+        "장난감",
+        "자연",
+        "파스텔"
+      ],
+      "camera": "입체 공간",
+      "classificationNote": "입체 공간을 이동하는 3D 게임; 재질과 환경 레퍼런스",
+      "sourceUrl": "https://www.nintendo.com/sg/switch/arzg/about/index.html",
+      "sourceName": "Nintendo 공식 사이트",
+      "credit": "© Nintendo / HAL Laboratory, Inc.",
+      "screenshots": [
+        {
+          "id": "kirby-and-the-forgotten-land-001",
+          "url": "https://www.nintendo.com/sg/switch/arzg/assets/img/about/img_slide_1.jpg",
+          "thumbnailUrl": "https://www.nintendo.com/sg/switch/arzg/assets/img/about/img_slide_1.jpg",
+          "sourceUrl": "https://www.nintendo.com/sg/switch/arzg/about/index.html",
+          "alt": "Kirby and the Forgotten Land 공식 스크린샷 1",
+          "kind": "gameplay",
+          "contentVerified": "첫 이미지를 직접 열어 플레이 화면 확인"
+        },
+        {
+          "id": "kirby-and-the-forgotten-land-002",
+          "url": "https://www.nintendo.com/sg/switch/arzg/assets/img/about/img_slide_2.jpg",
+          "thumbnailUrl": "https://www.nintendo.com/sg/switch/arzg/assets/img/about/img_slide_2.jpg",
+          "sourceUrl": "https://www.nintendo.com/sg/switch/arzg/about/index.html",
+          "alt": "Kirby and the Forgotten Land 공식 스크린샷 2"
+        },
+        {
+          "id": "kirby-and-the-forgotten-land-003",
+          "url": "https://www.nintendo.com/sg/switch/arzg/assets/img/about/img_slide_3.jpg",
+          "thumbnailUrl": "https://www.nintendo.com/sg/switch/arzg/assets/img/about/img_slide_3.jpg",
+          "sourceUrl": "https://www.nintendo.com/sg/switch/arzg/about/index.html",
+          "alt": "Kirby and the Forgotten Land 공식 스크린샷 3"
+        },
+        {
+          "id": "kirby-and-the-forgotten-land-004",
+          "url": "https://www.nintendo.com/sg/switch/arzg/assets/img/about/img_slide_4.jpg",
+          "thumbnailUrl": "https://www.nintendo.com/sg/switch/arzg/assets/img/about/img_slide_4.jpg",
+          "sourceUrl": "https://www.nintendo.com/sg/switch/arzg/about/index.html",
+          "alt": "Kirby and the Forgotten Land 공식 스크린샷 4"
+        },
+        {
+          "id": "kirby-and-the-forgotten-land-005",
+          "url": "https://www.nintendo.com/sg/switch/arzg/assets/img/about/img_slide_5.jpg",
+          "thumbnailUrl": "https://www.nintendo.com/sg/switch/arzg/assets/img/about/img_slide_5.jpg",
+          "sourceUrl": "https://www.nintendo.com/sg/switch/arzg/about/index.html",
+          "alt": "Kirby and the Forgotten Land 공식 스크린샷 5"
+        },
+        {
+          "id": "kirby-and-the-forgotten-land-006",
+          "url": "https://www.nintendo.com/sg/switch/arzg/assets/img/about/img_slide_6.jpg",
+          "thumbnailUrl": "https://www.nintendo.com/sg/switch/arzg/assets/img/about/img_slide_6.jpg",
+          "sourceUrl": "https://www.nintendo.com/sg/switch/arzg/about/index.html",
+          "alt": "Kirby and the Forgotten Land 공식 스크린샷 6"
+        },
+        {
+          "id": "kirby-and-the-forgotten-land-007",
+          "url": "https://www.nintendo.com/sg/switch/arzg/assets/img/about/img_slide_7.jpg",
+          "thumbnailUrl": "https://www.nintendo.com/sg/switch/arzg/assets/img/about/img_slide_7.jpg",
+          "sourceUrl": "https://www.nintendo.com/sg/switch/arzg/about/index.html",
+          "alt": "Kirby and the Forgotten Land 공식 스크린샷 7"
+        },
+        {
+          "id": "kirby-and-the-forgotten-land-008",
+          "url": "https://www.nintendo.com/sg/switch/arzg/assets/img/about/img_slide_8.jpg",
+          "thumbnailUrl": "https://www.nintendo.com/sg/switch/arzg/assets/img/about/img_slide_8.jpg",
+          "sourceUrl": "https://www.nintendo.com/sg/switch/arzg/about/index.html",
+          "alt": "Kirby and the Forgotten Land 공식 스크린샷 8"
+        },
+        {
+          "id": "kirby-and-the-forgotten-land-009",
+          "url": "https://www.nintendo.com/sg/switch/arzg/assets/img/about/img_slide_9.jpg",
+          "thumbnailUrl": "https://www.nintendo.com/sg/switch/arzg/assets/img/about/img_slide_9.jpg",
+          "sourceUrl": "https://www.nintendo.com/sg/switch/arzg/about/index.html",
+          "alt": "Kirby and the Forgotten Land 공식 스크린샷 9"
+        },
+        {
+          "id": "kirby-and-the-forgotten-land-010",
+          "url": "https://www.nintendo.com/sg/switch/arzg/assets/img/about/img_slide_10.jpg",
+          "thumbnailUrl": "https://www.nintendo.com/sg/switch/arzg/assets/img/about/img_slide_10.jpg",
+          "sourceUrl": "https://www.nintendo.com/sg/switch/arzg/about/index.html",
+          "alt": "Kirby and the Forgotten Land 공식 스크린샷 10"
+        },
+        {
+          "id": "kirby-and-the-forgotten-land-011",
+          "url": "https://www.nintendo.com/sg/switch/arzg/assets/img/about/img_slide_11.jpg",
+          "thumbnailUrl": "https://www.nintendo.com/sg/switch/arzg/assets/img/about/img_slide_11.jpg",
+          "sourceUrl": "https://www.nintendo.com/sg/switch/arzg/about/index.html",
+          "alt": "Kirby and the Forgotten Land 공식 스크린샷 11"
+        }
+      ],
+      "contentReviewNote": "첫 이미지는 직접 확인. 나머지는 공식 스크린샷 출처와 이미지 응답을 확인했으나 이번 수정에서 전체 내용을 개별 검수하지 않음."
+    },
+    {
+      "id": "kirby-star-allies",
+      "title": "Kirby Star Allies",
+      "titleKo": "별의 커비 스타 얼라이즈",
+      "dimension": "2.5D",
+      "tags": [
+        "선명한 색",
+        "둥근 형태",
+        "동화풍",
+        "전투 효과"
+      ],
+      "camera": "측면",
+      "classificationNote": "3D 캐릭터와 배경을 사용하는 측면 플랫포머",
+      "sourceUrl": "https://www.nintendo.com/sg/switch/ah26/index.html",
+      "sourceName": "Nintendo 공식 사이트",
+      "credit": "© Nintendo / HAL Laboratory, Inc.",
+      "screenshots": [
+        {
+          "id": "kirby-star-allies-005",
+          "url": "https://www.nintendo.com/sg/switch/ah26/img/cal_img05.jpg",
+          "thumbnailUrl": "https://www.nintendo.com/sg/switch/ah26/img/cal_img05.jpg",
+          "sourceUrl": "https://www.nintendo.com/sg/switch/ah26/index.html",
+          "alt": "Kirby Star Allies 공식 스크린샷 5",
+          "kind": "gameplay",
+          "contentVerified": "이미지를 직접 열어 플레이 화면 확인"
+        },
+        {
+          "id": "kirby-star-allies-004",
+          "url": "https://www.nintendo.com/sg/switch/ah26/img/cal_img04.jpg",
+          "thumbnailUrl": "https://www.nintendo.com/sg/switch/ah26/img/cal_img04.jpg",
+          "sourceUrl": "https://www.nintendo.com/sg/switch/ah26/index.html",
+          "alt": "Kirby Star Allies 공식 스크린샷 4",
+          "kind": "gameplay",
+          "contentVerified": "이미지를 직접 열어 플레이 화면 확인"
+        },
+        {
+          "id": "kirby-star-allies-003",
+          "url": "https://www.nintendo.com/sg/switch/ah26/img/cal_img03.jpg",
+          "thumbnailUrl": "https://www.nintendo.com/sg/switch/ah26/img/cal_img03.jpg",
+          "sourceUrl": "https://www.nintendo.com/sg/switch/ah26/index.html",
+          "alt": "Kirby Star Allies 공식 스크린샷 3",
+          "kind": "gameplay",
+          "contentVerified": "이미지를 직접 열어 플레이 화면 확인"
+        },
+        {
+          "id": "kirby-star-allies-006",
+          "url": "https://www.nintendo.com/sg/switch/ah26/img/cal_img06.jpg",
+          "thumbnailUrl": "https://www.nintendo.com/sg/switch/ah26/img/cal_img06.jpg",
+          "sourceUrl": "https://www.nintendo.com/sg/switch/ah26/index.html",
+          "alt": "Kirby Star Allies 공식 스크린샷 6",
+          "kind": "gameplay",
+          "contentVerified": "이미지를 직접 열어 플레이 화면 확인"
+        },
+        {
+          "id": "kirby-star-allies-007",
+          "url": "https://www.nintendo.com/sg/switch/ah26/img/cal_img07.jpg",
+          "thumbnailUrl": "https://www.nintendo.com/sg/switch/ah26/img/cal_img07.jpg",
+          "sourceUrl": "https://www.nintendo.com/sg/switch/ah26/index.html",
+          "alt": "Kirby Star Allies 공식 스크린샷 7",
+          "kind": "gameplay",
+          "contentVerified": "이미지를 직접 열어 플레이 화면 확인"
+        }
+      ],
+      "contentReviewNote": "하트 능력 클로즈업과 Friend Star 연출 컷을 제외. 표지는 풀밭의 측면 전투 화면."
+    },
+    {
+      "id": "donkey-kong-country-tropical-freeze",
+      "title": "Donkey Kong Country: Tropical Freeze",
+      "titleKo": "동키콩 컨트리 트로피컬 프리즈",
+      "dimension": "2.5D",
+      "tags": [
+        "깊이 연출",
+        "자연",
+        "입체 배경",
+        "역동적"
+      ],
+      "camera": "측면",
+      "classificationNote": "측면 진행 중심이며 카메라와 이동 경로가 입체적으로 변하는 구간 포함",
+      "sourceUrl": "https://www.nintendo.com/sg/switch/afwt/index.html",
+      "sourceName": "Nintendo 공식 사이트",
+      "credit": "© Nintendo / Retro Studios",
+      "screenshots": [
+        {
+          "id": "donkey-kong-country-tropical-freeze-001",
+          "url": "https://www.nintendo.com/sg/switch/afwt/img/cal_img02.jpg",
+          "thumbnailUrl": "https://www.nintendo.com/sg/switch/afwt/img/cal_img02.jpg",
+          "sourceUrl": "https://www.nintendo.com/sg/switch/afwt/index.html",
+          "alt": "Donkey Kong Country: Tropical Freeze 공식 스크린샷 1",
+          "kind": "gameplay",
+          "contentVerified": "첫 이미지를 직접 열어 플레이 화면 확인"
+        },
+        {
+          "id": "donkey-kong-country-tropical-freeze-002",
+          "url": "https://www.nintendo.com/sg/switch/afwt/img/cal_img03.jpg",
+          "thumbnailUrl": "https://www.nintendo.com/sg/switch/afwt/img/cal_img03.jpg",
+          "sourceUrl": "https://www.nintendo.com/sg/switch/afwt/index.html",
+          "alt": "Donkey Kong Country: Tropical Freeze 공식 스크린샷 2"
+        },
+        {
+          "id": "donkey-kong-country-tropical-freeze-003",
+          "url": "https://www.nintendo.com/sg/switch/afwt/img/cal_img04.jpg",
+          "thumbnailUrl": "https://www.nintendo.com/sg/switch/afwt/img/cal_img04.jpg",
+          "sourceUrl": "https://www.nintendo.com/sg/switch/afwt/index.html",
+          "alt": "Donkey Kong Country: Tropical Freeze 공식 스크린샷 3"
+        },
+        {
+          "id": "donkey-kong-country-tropical-freeze-004",
+          "url": "https://www.nintendo.com/sg/switch/afwt/img/cal_img05.jpg",
+          "thumbnailUrl": "https://www.nintendo.com/sg/switch/afwt/img/cal_img05.jpg",
+          "sourceUrl": "https://www.nintendo.com/sg/switch/afwt/index.html",
+          "alt": "Donkey Kong Country: Tropical Freeze 공식 스크린샷 4"
+        },
+        {
+          "id": "donkey-kong-country-tropical-freeze-005",
+          "url": "https://www.nintendo.com/sg/switch/afwt/img/cal_img06.jpg",
+          "thumbnailUrl": "https://www.nintendo.com/sg/switch/afwt/img/cal_img06.jpg",
+          "sourceUrl": "https://www.nintendo.com/sg/switch/afwt/index.html",
+          "alt": "Donkey Kong Country: Tropical Freeze 공식 스크린샷 5"
+        }
+      ],
+      "contentReviewNote": "첫 이미지는 직접 확인. 나머지는 공식 스크린샷 출처와 이미지 응답을 확인했으나 이번 수정에서 전체 내용을 개별 검수하지 않음."
+    },
+    {
+      "id": "captain-toad-treasure-tracker",
+      "title": "Captain Toad: Treasure Tracker",
+      "titleKo": "전진! 키노피오대장",
+      "dimension": "3D",
+      "tags": [
+        "디오라마",
+        "모듈형",
+        "장난감",
+        "둥근 형태"
+      ],
+      "camera": "입체 공간",
+      "classificationNote": "회전 가능한 작은 3D 무대; 측면 카메라 참고가 아닌 공간 구성 참고",
+      "sourceUrl": "https://www.nintendo.com/sg/switch/ajh9/index.html",
+      "sourceName": "Nintendo 공식 사이트",
+      "credit": "© Nintendo",
+      "screenshots": [
+        {
+          "id": "captain-toad-treasure-tracker-001",
+          "url": "https://www.nintendo.com/sg/switch/ajh9/img/cal_img01.jpg",
+          "thumbnailUrl": "https://www.nintendo.com/sg/switch/ajh9/img/cal_img01.jpg",
+          "sourceUrl": "https://www.nintendo.com/sg/switch/ajh9/index.html",
+          "alt": "Captain Toad: Treasure Tracker 공식 스크린샷 1",
+          "kind": "gameplay",
+          "contentVerified": "첫 이미지를 직접 열어 플레이 화면 확인"
+        },
+        {
+          "id": "captain-toad-treasure-tracker-002",
+          "url": "https://www.nintendo.com/sg/switch/ajh9/img/cal_img02.jpg",
+          "thumbnailUrl": "https://www.nintendo.com/sg/switch/ajh9/img/cal_img02.jpg",
+          "sourceUrl": "https://www.nintendo.com/sg/switch/ajh9/index.html",
+          "alt": "Captain Toad: Treasure Tracker 공식 스크린샷 2"
+        },
+        {
+          "id": "captain-toad-treasure-tracker-003",
+          "url": "https://www.nintendo.com/sg/switch/ajh9/img/cal_img03.jpg",
+          "thumbnailUrl": "https://www.nintendo.com/sg/switch/ajh9/img/cal_img03.jpg",
+          "sourceUrl": "https://www.nintendo.com/sg/switch/ajh9/index.html",
+          "alt": "Captain Toad: Treasure Tracker 공식 스크린샷 3"
+        },
+        {
+          "id": "captain-toad-treasure-tracker-004",
+          "url": "https://www.nintendo.com/sg/switch/ajh9/img/cal_img04.jpg",
+          "thumbnailUrl": "https://www.nintendo.com/sg/switch/ajh9/img/cal_img04.jpg",
+          "sourceUrl": "https://www.nintendo.com/sg/switch/ajh9/index.html",
+          "alt": "Captain Toad: Treasure Tracker 공식 스크린샷 4"
+        },
+        {
+          "id": "captain-toad-treasure-tracker-005",
+          "url": "https://www.nintendo.com/sg/switch/ajh9/img/cal_img05.jpg",
+          "thumbnailUrl": "https://www.nintendo.com/sg/switch/ajh9/img/cal_img05.jpg",
+          "sourceUrl": "https://www.nintendo.com/sg/switch/ajh9/index.html",
+          "alt": "Captain Toad: Treasure Tracker 공식 스크린샷 5"
+        },
+        {
+          "id": "captain-toad-treasure-tracker-006",
+          "url": "https://www.nintendo.com/sg/switch/ajh9/img/cal_img06.jpg",
+          "thumbnailUrl": "https://www.nintendo.com/sg/switch/ajh9/img/cal_img06.jpg",
+          "sourceUrl": "https://www.nintendo.com/sg/switch/ajh9/index.html",
+          "alt": "Captain Toad: Treasure Tracker 공식 스크린샷 6"
+        }
+      ],
+      "contentReviewNote": "첫 이미지는 직접 확인. 나머지는 공식 스크린샷 출처와 이미지 응답을 확인했으나 이번 수정에서 전체 내용을 개별 검수하지 않음."
+    },
+    {
+      "id": "pikmin-4",
+      "title": "Pikmin 4",
+      "titleKo": "피크민 4",
+      "dimension": "3D",
+      "tags": [
+        "미니어처",
+        "생활용품",
+        "자연",
+        "장난감"
+      ],
+      "camera": "입체 공간",
+      "classificationNote": "3D 공간과 낮은 카메라를 사용하는 미니어처 환경 참고",
+      "sourceUrl": "https://www.nintendo.com/sg/switch/ampy/index.html",
+      "sourceName": "Nintendo 공식 사이트",
+      "credit": "© Nintendo",
+      "screenshots": [
+        {
+          "id": "pikmin-4-001",
+          "url": "https://www.nintendo.com/sg/switch/ampy/img/screenshot1.png",
+          "thumbnailUrl": "https://www.nintendo.com/sg/switch/ampy/img/screenshot1.png",
+          "sourceUrl": "https://www.nintendo.com/sg/switch/ampy/index.html",
+          "alt": "Pikmin 4 공식 스크린샷 1",
+          "kind": "gameplay",
+          "contentVerified": "첫 이미지를 직접 열어 플레이 화면 확인"
+        },
+        {
+          "id": "pikmin-4-002",
+          "url": "https://www.nintendo.com/sg/switch/ampy/img/screenshot2.png",
+          "thumbnailUrl": "https://www.nintendo.com/sg/switch/ampy/img/screenshot2.png",
+          "sourceUrl": "https://www.nintendo.com/sg/switch/ampy/index.html",
+          "alt": "Pikmin 4 공식 스크린샷 2"
+        },
+        {
+          "id": "pikmin-4-003",
+          "url": "https://www.nintendo.com/sg/switch/ampy/img/screenshot3.png",
+          "thumbnailUrl": "https://www.nintendo.com/sg/switch/ampy/img/screenshot3.png",
+          "sourceUrl": "https://www.nintendo.com/sg/switch/ampy/index.html",
+          "alt": "Pikmin 4 공식 스크린샷 3"
+        },
+        {
+          "id": "pikmin-4-004",
+          "url": "https://www.nintendo.com/sg/switch/ampy/img/screenshot4.png",
+          "thumbnailUrl": "https://www.nintendo.com/sg/switch/ampy/img/screenshot4.png",
+          "sourceUrl": "https://www.nintendo.com/sg/switch/ampy/index.html",
+          "alt": "Pikmin 4 공식 스크린샷 4"
+        },
+        {
+          "id": "pikmin-4-005",
+          "url": "https://www.nintendo.com/sg/switch/ampy/img/screenshot5.png",
+          "thumbnailUrl": "https://www.nintendo.com/sg/switch/ampy/img/screenshot5.png",
+          "sourceUrl": "https://www.nintendo.com/sg/switch/ampy/index.html",
+          "alt": "Pikmin 4 공식 스크린샷 5"
+        },
+        {
+          "id": "pikmin-4-006",
+          "url": "https://www.nintendo.com/sg/switch/ampy/img/screenshot6.png",
+          "thumbnailUrl": "https://www.nintendo.com/sg/switch/ampy/img/screenshot6.png",
+          "sourceUrl": "https://www.nintendo.com/sg/switch/ampy/index.html",
+          "alt": "Pikmin 4 공식 스크린샷 6"
+        }
+      ],
+      "contentReviewNote": "첫 이미지는 직접 확인. 나머지는 공식 스크린샷 출처와 이미지 응답을 확인했으나 이번 수정에서 전체 내용을 개별 검수하지 않음."
+    },
+    {
+      "id": "links-awakening",
+      "title": "The Legend of Zelda: Link’s Awakening",
+      "titleKo": "젤다의 전설 꿈꾸는 섬",
+      "dimension": "3D",
+      "tags": [
+        "장난감",
+        "디오라마",
+        "둥근 형태",
+        "선명한 색"
+      ],
+      "camera": "입체 공간",
+      "classificationNote": "입체 모델을 내려다보는 탑다운 게임; 재질과 비례 참고",
+      "sourceUrl": "https://www.nintendo.com/sg/switch/ar3n/index.html",
+      "sourceName": "Nintendo 공식 사이트",
+      "credit": "© Nintendo",
+      "screenshots": [
+        {
+          "id": "links-awakening-001",
+          "url": "https://www.nintendo.com/sg/switch/ar3n/img/cal_img01.jpg",
+          "thumbnailUrl": "https://www.nintendo.com/sg/switch/ar3n/img/cal_img01.jpg",
+          "sourceUrl": "https://www.nintendo.com/sg/switch/ar3n/index.html",
+          "alt": "The Legend of Zelda: Link’s Awakening 공식 스크린샷 1",
+          "kind": "gameplay",
+          "contentVerified": "첫 이미지를 직접 열어 플레이 화면 확인"
+        },
+        {
+          "id": "links-awakening-002",
+          "url": "https://www.nintendo.com/sg/switch/ar3n/img/cal_img02.jpg",
+          "thumbnailUrl": "https://www.nintendo.com/sg/switch/ar3n/img/cal_img02.jpg",
+          "sourceUrl": "https://www.nintendo.com/sg/switch/ar3n/index.html",
+          "alt": "The Legend of Zelda: Link’s Awakening 공식 스크린샷 2"
+        },
+        {
+          "id": "links-awakening-003",
+          "url": "https://www.nintendo.com/sg/switch/ar3n/img/cal_img03.jpg",
+          "thumbnailUrl": "https://www.nintendo.com/sg/switch/ar3n/img/cal_img03.jpg",
+          "sourceUrl": "https://www.nintendo.com/sg/switch/ar3n/index.html",
+          "alt": "The Legend of Zelda: Link’s Awakening 공식 스크린샷 3"
+        },
+        {
+          "id": "links-awakening-004",
+          "url": "https://www.nintendo.com/sg/switch/ar3n/img/cal_img04.jpg",
+          "thumbnailUrl": "https://www.nintendo.com/sg/switch/ar3n/img/cal_img04.jpg",
+          "sourceUrl": "https://www.nintendo.com/sg/switch/ar3n/index.html",
+          "alt": "The Legend of Zelda: Link’s Awakening 공식 스크린샷 4"
+        },
+        {
+          "id": "links-awakening-005",
+          "url": "https://www.nintendo.com/sg/switch/ar3n/img/cal_img05.jpg",
+          "thumbnailUrl": "https://www.nintendo.com/sg/switch/ar3n/img/cal_img05.jpg",
+          "sourceUrl": "https://www.nintendo.com/sg/switch/ar3n/index.html",
+          "alt": "The Legend of Zelda: Link’s Awakening 공식 스크린샷 5"
+        },
+        {
+          "id": "links-awakening-006",
+          "url": "https://www.nintendo.com/sg/switch/ar3n/img/cal_img06.jpg",
+          "thumbnailUrl": "https://www.nintendo.com/sg/switch/ar3n/img/cal_img06.jpg",
+          "sourceUrl": "https://www.nintendo.com/sg/switch/ar3n/index.html",
+          "alt": "The Legend of Zelda: Link’s Awakening 공식 스크린샷 6"
+        }
+      ],
+      "contentReviewNote": "첫 이미지는 직접 확인. 나머지는 공식 스크린샷 출처와 이미지 응답을 확인했으나 이번 수정에서 전체 내용을 개별 검수하지 않음."
+    },
+    {
+      "id": "kirby-and-the-rainbow-curse",
+      "title": "Kirby and the Rainbow Curse",
+      "titleKo": "터치! 커비 슈퍼 레인보우",
+      "dimension": "2.5D",
+      "tags": [
+        "클레이",
+        "수공예",
+        "둥근 형태",
+        "선명한 색"
+      ],
+      "camera": "측면",
+      "classificationNote": "3D 찰흙 표현을 사용하는 평면 중심 게임. 유럽 명칭은 Rainbow Paintbrush",
+      "sourceUrl": "https://www.nintendo.com/en-gb/Games/Wii-U-games/Kirby-and-the-Rainbow-Paintbrush-893013.html",
+      "sourceName": "Nintendo 공식 사이트",
+      "credit": "© Nintendo / HAL Laboratory, Inc.",
+      "screenshots": [
+        {
+          "id": "kirby-and-the-rainbow-curse-001",
+          "url": "https://www.nintendo.com/eu/media/images/06_screenshots/games_5/wiiu_7/wiiu_kirbyandtherainbowcourse/WiiU_KirbyAndTheRainbowCourse_15.bmp",
+          "thumbnailUrl": "https://www.nintendo.com/eu/media/images/06_screenshots/games_5/wiiu_7/wiiu_kirbyandtherainbowcourse/WiiU_KirbyAndTheRainbowCourse_15_TM_Standard.png",
+          "sourceUrl": "https://www.nintendo.com/en-gb/Games/Wii-U-games/Kirby-and-the-Rainbow-Paintbrush-893013.html",
+          "alt": "Kirby and the Rainbow Curse 공식 스크린샷 1",
+          "kind": "gameplay",
+          "contentVerified": "첫 이미지를 직접 열어 플레이 화면 확인"
+        },
+        {
+          "id": "kirby-and-the-rainbow-curse-002",
+          "url": "https://www.nintendo.com/eu/media/images/06_screenshots/games_5/wiiu_7/wiiu_kirbyandtherainbowcourse/WiiU_KirbyAndTheRainbowCourse_16.bmp",
+          "thumbnailUrl": "https://www.nintendo.com/eu/media/images/06_screenshots/games_5/wiiu_7/wiiu_kirbyandtherainbowcourse/WiiU_KirbyAndTheRainbowCourse_16_TM_Standard.png",
+          "sourceUrl": "https://www.nintendo.com/en-gb/Games/Wii-U-games/Kirby-and-the-Rainbow-Paintbrush-893013.html",
+          "alt": "Kirby and the Rainbow Curse 공식 스크린샷 2"
+        },
+        {
+          "id": "kirby-and-the-rainbow-curse-003",
+          "url": "https://www.nintendo.com/eu/media/images/06_screenshots/games_5/wiiu_7/wiiu_kirbyandtherainbowcourse/WiiU_KirbyAndTheRainbowCourse_17.bmp",
+          "thumbnailUrl": "https://www.nintendo.com/eu/media/images/06_screenshots/games_5/wiiu_7/wiiu_kirbyandtherainbowcourse/WiiU_KirbyAndTheRainbowCourse_17_TM_Standard.png",
+          "sourceUrl": "https://www.nintendo.com/en-gb/Games/Wii-U-games/Kirby-and-the-Rainbow-Paintbrush-893013.html",
+          "alt": "Kirby and the Rainbow Curse 공식 스크린샷 3"
+        },
+        {
+          "id": "kirby-and-the-rainbow-curse-004",
+          "url": "https://www.nintendo.com/eu/media/images/06_screenshots/games_5/wiiu_7/wiiu_kirbyandtherainbowcourse/WiiU_KirbyAndTheRainbowCourse_18.bmp",
+          "thumbnailUrl": "https://www.nintendo.com/eu/media/images/06_screenshots/games_5/wiiu_7/wiiu_kirbyandtherainbowcourse/WiiU_KirbyAndTheRainbowCourse_18_TM_Standard.png",
+          "sourceUrl": "https://www.nintendo.com/en-gb/Games/Wii-U-games/Kirby-and-the-Rainbow-Paintbrush-893013.html",
+          "alt": "Kirby and the Rainbow Curse 공식 스크린샷 4"
+        },
+        {
+          "id": "kirby-and-the-rainbow-curse-005",
+          "url": "https://www.nintendo.com/eu/media/images/06_screenshots/games_5/wiiu_7/wiiu_kirbyandtherainbowcourse/WiiU_KirbyAndTheRainbowCourse_19.bmp",
+          "thumbnailUrl": "https://www.nintendo.com/eu/media/images/06_screenshots/games_5/wiiu_7/wiiu_kirbyandtherainbowcourse/WiiU_KirbyAndTheRainbowCourse_19_TM_Standard.png",
+          "sourceUrl": "https://www.nintendo.com/en-gb/Games/Wii-U-games/Kirby-and-the-Rainbow-Paintbrush-893013.html",
+          "alt": "Kirby and the Rainbow Curse 공식 스크린샷 5"
+        },
+        {
+          "id": "kirby-and-the-rainbow-curse-006",
+          "url": "https://www.nintendo.com/eu/media/images/06_screenshots/games_5/wiiu_7/wiiu_kirbyandtherainbowcourse/WiiU_KirbyAndTheRainbowCourse_20.bmp",
+          "thumbnailUrl": "https://www.nintendo.com/eu/media/images/06_screenshots/games_5/wiiu_7/wiiu_kirbyandtherainbowcourse/WiiU_KirbyAndTheRainbowCourse_20_TM_Standard.png",
+          "sourceUrl": "https://www.nintendo.com/en-gb/Games/Wii-U-games/Kirby-and-the-Rainbow-Paintbrush-893013.html",
+          "alt": "Kirby and the Rainbow Curse 공식 스크린샷 6"
+        },
+        {
+          "id": "kirby-and-the-rainbow-curse-007",
+          "url": "https://www.nintendo.com/eu/media/images/06_screenshots/games_5/wiiu_7/wiiu_kirbyandtherainbowcourse/WiiU_KirbyAndTheRainbowCourse_21.bmp",
+          "thumbnailUrl": "https://www.nintendo.com/eu/media/images/06_screenshots/games_5/wiiu_7/wiiu_kirbyandtherainbowcourse/WiiU_KirbyAndTheRainbowCourse_21_TM_Standard.png",
+          "sourceUrl": "https://www.nintendo.com/en-gb/Games/Wii-U-games/Kirby-and-the-Rainbow-Paintbrush-893013.html",
+          "alt": "Kirby and the Rainbow Curse 공식 스크린샷 7"
+        },
+        {
+          "id": "kirby-and-the-rainbow-curse-008",
+          "url": "https://www.nintendo.com/eu/media/images/06_screenshots/games_5/wiiu_7/wiiu_kirbyandtherainbowcourse/WiiU_KirbyAndTheRainbowCourse_22.bmp",
+          "thumbnailUrl": "https://www.nintendo.com/eu/media/images/06_screenshots/games_5/wiiu_7/wiiu_kirbyandtherainbowcourse/WiiU_KirbyAndTheRainbowCourse_22_TM_Standard.png",
+          "sourceUrl": "https://www.nintendo.com/en-gb/Games/Wii-U-games/Kirby-and-the-Rainbow-Paintbrush-893013.html",
+          "alt": "Kirby and the Rainbow Curse 공식 스크린샷 8"
+        },
+        {
+          "id": "kirby-and-the-rainbow-curse-009",
+          "url": "https://www.nintendo.com/eu/media/images/06_screenshots/games_5/wiiu_7/wiiu_kirbyandtherainbowcourse/WiiU_KirbyAndTheRainbowCourse_23.bmp",
+          "thumbnailUrl": "https://www.nintendo.com/eu/media/images/06_screenshots/games_5/wiiu_7/wiiu_kirbyandtherainbowcourse/WiiU_KirbyAndTheRainbowCourse_23_TM_Standard.png",
+          "sourceUrl": "https://www.nintendo.com/en-gb/Games/Wii-U-games/Kirby-and-the-Rainbow-Paintbrush-893013.html",
+          "alt": "Kirby and the Rainbow Curse 공식 스크린샷 9"
+        },
+        {
+          "id": "kirby-and-the-rainbow-curse-010",
+          "url": "https://www.nintendo.com/eu/media/images/06_screenshots/games_5/wiiu_7/wiiu_kirbyandtherainbowcourse/WiiU_KirbyAndTheRainbowCourse_24.bmp",
+          "thumbnailUrl": "https://www.nintendo.com/eu/media/images/06_screenshots/games_5/wiiu_7/wiiu_kirbyandtherainbowcourse/WiiU_KirbyAndTheRainbowCourse_24_TM_Standard.png",
+          "sourceUrl": "https://www.nintendo.com/en-gb/Games/Wii-U-games/Kirby-and-the-Rainbow-Paintbrush-893013.html",
+          "alt": "Kirby and the Rainbow Curse 공식 스크린샷 10"
+        },
+        {
+          "id": "kirby-and-the-rainbow-curse-011",
+          "url": "https://www.nintendo.com/eu/media/images/06_screenshots/games_5/wiiu_7/wiiu_kirbyandtherainbowcourse/WiiU_KirbyAndTheRainbowCourse_25.bmp",
+          "thumbnailUrl": "https://www.nintendo.com/eu/media/images/06_screenshots/games_5/wiiu_7/wiiu_kirbyandtherainbowcourse/WiiU_KirbyAndTheRainbowCourse_25_TM_Standard.png",
+          "sourceUrl": "https://www.nintendo.com/en-gb/Games/Wii-U-games/Kirby-and-the-Rainbow-Paintbrush-893013.html",
+          "alt": "Kirby and the Rainbow Curse 공식 스크린샷 11"
+        },
+        {
+          "id": "kirby-and-the-rainbow-curse-012",
+          "url": "https://www.nintendo.com/eu/media/images/06_screenshots/games_5/wiiu_7/wiiu_kirbyandtherainbowcourse/WiiU_KirbyAndTheRainbowCourse_26.bmp",
+          "thumbnailUrl": "https://www.nintendo.com/eu/media/images/06_screenshots/games_5/wiiu_7/wiiu_kirbyandtherainbowcourse/WiiU_KirbyAndTheRainbowCourse_26_TM_Standard.png",
+          "sourceUrl": "https://www.nintendo.com/en-gb/Games/Wii-U-games/Kirby-and-the-Rainbow-Paintbrush-893013.html",
+          "alt": "Kirby and the Rainbow Curse 공식 스크린샷 12"
+        },
+        {
+          "id": "kirby-and-the-rainbow-curse-013",
+          "url": "https://www.nintendo.com/eu/media/images/06_screenshots/games_5/wiiu_7/wiiu_kirbyandtherainbowcourse/WiiU_KirbyAndTheRainbowCourse_27.bmp",
+          "thumbnailUrl": "https://www.nintendo.com/eu/media/images/06_screenshots/games_5/wiiu_7/wiiu_kirbyandtherainbowcourse/WiiU_KirbyAndTheRainbowCourse_27_TM_Standard.png",
+          "sourceUrl": "https://www.nintendo.com/en-gb/Games/Wii-U-games/Kirby-and-the-Rainbow-Paintbrush-893013.html",
+          "alt": "Kirby and the Rainbow Curse 공식 스크린샷 13"
+        },
+        {
+          "id": "kirby-and-the-rainbow-curse-014",
+          "url": "https://www.nintendo.com/eu/media/images/06_screenshots/games_5/wiiu_7/wiiu_kirbyandtherainbowcourse/WiiU_KirbyAndTheRainbowCourse_28.bmp",
+          "thumbnailUrl": "https://www.nintendo.com/eu/media/images/06_screenshots/games_5/wiiu_7/wiiu_kirbyandtherainbowcourse/WiiU_KirbyAndTheRainbowCourse_28_TM_Standard.png",
+          "sourceUrl": "https://www.nintendo.com/en-gb/Games/Wii-U-games/Kirby-and-the-Rainbow-Paintbrush-893013.html",
+          "alt": "Kirby and the Rainbow Curse 공식 스크린샷 14"
+        },
+        {
+          "id": "kirby-and-the-rainbow-curse-015",
+          "url": "https://www.nintendo.com/eu/media/images/06_screenshots/games_5/wiiu_7/wiiu_kirbyandtherainbowcourse/WiiU_KirbyAndTheRainbowCourse_29.bmp",
+          "thumbnailUrl": "https://www.nintendo.com/eu/media/images/06_screenshots/games_5/wiiu_7/wiiu_kirbyandtherainbowcourse/WiiU_KirbyAndTheRainbowCourse_29_TM_Standard.png",
+          "sourceUrl": "https://www.nintendo.com/en-gb/Games/Wii-U-games/Kirby-and-the-Rainbow-Paintbrush-893013.html",
+          "alt": "Kirby and the Rainbow Curse 공식 스크린샷 15"
+        },
+        {
+          "id": "kirby-and-the-rainbow-curse-016",
+          "url": "https://www.nintendo.com/eu/media/images/06_screenshots/games_5/wiiu_7/wiiu_kirbyandtherainbowcourse/WiiU_KirbyAndTheRainbowCourse_30.bmp",
+          "thumbnailUrl": "https://www.nintendo.com/eu/media/images/06_screenshots/games_5/wiiu_7/wiiu_kirbyandtherainbowcourse/WiiU_KirbyAndTheRainbowCourse_30_TM_Standard.png",
+          "sourceUrl": "https://www.nintendo.com/en-gb/Games/Wii-U-games/Kirby-and-the-Rainbow-Paintbrush-893013.html",
+          "alt": "Kirby and the Rainbow Curse 공식 스크린샷 16"
+        },
+        {
+          "id": "kirby-and-the-rainbow-curse-017",
+          "url": "https://www.nintendo.com/eu/media/images/06_screenshots/games_5/wiiu_7/wiiu_kirbyandtherainbowcourse/WiiU_KirbyAndTheRainbowCourse_31.bmp",
+          "thumbnailUrl": "https://www.nintendo.com/eu/media/images/06_screenshots/games_5/wiiu_7/wiiu_kirbyandtherainbowcourse/WiiU_KirbyAndTheRainbowCourse_31_TM_Standard.png",
+          "sourceUrl": "https://www.nintendo.com/en-gb/Games/Wii-U-games/Kirby-and-the-Rainbow-Paintbrush-893013.html",
+          "alt": "Kirby and the Rainbow Curse 공식 스크린샷 17"
+        },
+        {
+          "id": "kirby-and-the-rainbow-curse-018",
+          "url": "https://www.nintendo.com/eu/media/images/06_screenshots/games_5/wiiu_7/wiiu_kirbyandtherainbowcourse/WiiU_KirbyAndTheRainbowCourse_32.bmp",
+          "thumbnailUrl": "https://www.nintendo.com/eu/media/images/06_screenshots/games_5/wiiu_7/wiiu_kirbyandtherainbowcourse/WiiU_KirbyAndTheRainbowCourse_32_TM_Standard.png",
+          "sourceUrl": "https://www.nintendo.com/en-gb/Games/Wii-U-games/Kirby-and-the-Rainbow-Paintbrush-893013.html",
+          "alt": "Kirby and the Rainbow Curse 공식 스크린샷 18"
+        },
+        {
+          "id": "kirby-and-the-rainbow-curse-019",
+          "url": "https://www.nintendo.com/eu/media/images/06_screenshots/games_5/wiiu_7/wiiu_kirbyandtherainbowcourse/WiiU_KirbyAndTheRainbowCourse_33.bmp",
+          "thumbnailUrl": "https://www.nintendo.com/eu/media/images/06_screenshots/games_5/wiiu_7/wiiu_kirbyandtherainbowcourse/WiiU_KirbyAndTheRainbowCourse_33_TM_Standard.png",
+          "sourceUrl": "https://www.nintendo.com/en-gb/Games/Wii-U-games/Kirby-and-the-Rainbow-Paintbrush-893013.html",
+          "alt": "Kirby and the Rainbow Curse 공식 스크린샷 19"
+        },
+        {
+          "id": "kirby-and-the-rainbow-curse-020",
+          "url": "https://www.nintendo.com/eu/media/images/06_screenshots/games_5/wiiu_7/wiiu_kirbyandtherainbowcourse/WiiU_KirbyAndTheRainbowCourse_34.bmp",
+          "thumbnailUrl": "https://www.nintendo.com/eu/media/images/06_screenshots/games_5/wiiu_7/wiiu_kirbyandtherainbowcourse/WiiU_KirbyAndTheRainbowCourse_34_TM_Standard.png",
+          "sourceUrl": "https://www.nintendo.com/en-gb/Games/Wii-U-games/Kirby-and-the-Rainbow-Paintbrush-893013.html",
+          "alt": "Kirby and the Rainbow Curse 공식 스크린샷 20"
+        },
+        {
+          "id": "kirby-and-the-rainbow-curse-021",
+          "url": "https://www.nintendo.com/eu/media/images/06_screenshots/games_5/wiiu_7/wiiu_kirbyandtherainbowcourse/WiiU_KirbyAndTheRainbowCourse_35.bmp",
+          "thumbnailUrl": "https://www.nintendo.com/eu/media/images/06_screenshots/games_5/wiiu_7/wiiu_kirbyandtherainbowcourse/WiiU_KirbyAndTheRainbowCourse_35_TM_Standard.png",
+          "sourceUrl": "https://www.nintendo.com/en-gb/Games/Wii-U-games/Kirby-and-the-Rainbow-Paintbrush-893013.html",
+          "alt": "Kirby and the Rainbow Curse 공식 스크린샷 21"
+        },
+        {
+          "id": "kirby-and-the-rainbow-curse-022",
+          "url": "https://www.nintendo.com/eu/media/images/06_screenshots/games_5/wiiu_7/wiiu_kirbyandtherainbowcourse/WiiU_KirbyAndTheRainbowCourse_36.bmp",
+          "thumbnailUrl": "https://www.nintendo.com/eu/media/images/06_screenshots/games_5/wiiu_7/wiiu_kirbyandtherainbowcourse/WiiU_KirbyAndTheRainbowCourse_36_TM_Standard.png",
+          "sourceUrl": "https://www.nintendo.com/en-gb/Games/Wii-U-games/Kirby-and-the-Rainbow-Paintbrush-893013.html",
+          "alt": "Kirby and the Rainbow Curse 공식 스크린샷 22"
+        },
+        {
+          "id": "kirby-and-the-rainbow-curse-023",
+          "url": "https://www.nintendo.com/eu/media/images/06_screenshots/games_5/wiiu_7/wiiu_kirbyandtherainbowcourse/WiiU_KirbyAndTheRainbowCourse_37.bmp",
+          "thumbnailUrl": "https://www.nintendo.com/eu/media/images/06_screenshots/games_5/wiiu_7/wiiu_kirbyandtherainbowcourse/WiiU_KirbyAndTheRainbowCourse_37_TM_Standard.png",
+          "sourceUrl": "https://www.nintendo.com/en-gb/Games/Wii-U-games/Kirby-and-the-Rainbow-Paintbrush-893013.html",
+          "alt": "Kirby and the Rainbow Curse 공식 스크린샷 23"
+        },
+        {
+          "id": "kirby-and-the-rainbow-curse-024",
+          "url": "https://www.nintendo.com/eu/media/images/06_screenshots/games_5/wiiu_7/wiiu_kirbyandtherainbowcourse/WiiU_KirbyAndTheRainbowCourse_38.bmp",
+          "thumbnailUrl": "https://www.nintendo.com/eu/media/images/06_screenshots/games_5/wiiu_7/wiiu_kirbyandtherainbowcourse/WiiU_KirbyAndTheRainbowCourse_38_TM_Standard.png",
+          "sourceUrl": "https://www.nintendo.com/en-gb/Games/Wii-U-games/Kirby-and-the-Rainbow-Paintbrush-893013.html",
+          "alt": "Kirby and the Rainbow Curse 공식 스크린샷 24"
+        },
+        {
+          "id": "kirby-and-the-rainbow-curse-025",
+          "url": "https://www.nintendo.com/eu/media/images/06_screenshots/games_5/wiiu_7/wiiu_kirbyandtherainbowcourse/WiiU_KirbyAndTheRainbowCourse_01.bmp",
+          "thumbnailUrl": "https://www.nintendo.com/eu/media/images/06_screenshots/games_5/wiiu_7/wiiu_kirbyandtherainbowcourse/WiiU_KirbyAndTheRainbowCourse_01_TM_Standard.png",
+          "sourceUrl": "https://www.nintendo.com/en-gb/Games/Wii-U-games/Kirby-and-the-Rainbow-Paintbrush-893013.html",
+          "alt": "Kirby and the Rainbow Curse 공식 스크린샷 25"
+        },
+        {
+          "id": "kirby-and-the-rainbow-curse-026",
+          "url": "https://www.nintendo.com/eu/media/images/06_screenshots/games_5/wiiu_7/wiiu_kirbyandtherainbowcourse/WiiU_KirbyAndTheRainbowCourse_02.bmp",
+          "thumbnailUrl": "https://www.nintendo.com/eu/media/images/06_screenshots/games_5/wiiu_7/wiiu_kirbyandtherainbowcourse/WiiU_KirbyAndTheRainbowCourse_02_TM_Standard.png",
+          "sourceUrl": "https://www.nintendo.com/en-gb/Games/Wii-U-games/Kirby-and-the-Rainbow-Paintbrush-893013.html",
+          "alt": "Kirby and the Rainbow Curse 공식 스크린샷 26"
+        },
+        {
+          "id": "kirby-and-the-rainbow-curse-027",
+          "url": "https://www.nintendo.com/eu/media/images/06_screenshots/games_5/wiiu_7/wiiu_kirbyandtherainbowcourse/WiiU_KirbyAndTheRainbowCourse_03.bmp",
+          "thumbnailUrl": "https://www.nintendo.com/eu/media/images/06_screenshots/games_5/wiiu_7/wiiu_kirbyandtherainbowcourse/WiiU_KirbyAndTheRainbowCourse_03_TM_Standard.png",
+          "sourceUrl": "https://www.nintendo.com/en-gb/Games/Wii-U-games/Kirby-and-the-Rainbow-Paintbrush-893013.html",
+          "alt": "Kirby and the Rainbow Curse 공식 스크린샷 27"
+        },
+        {
+          "id": "kirby-and-the-rainbow-curse-028",
+          "url": "https://www.nintendo.com/eu/media/images/06_screenshots/games_5/wiiu_7/wiiu_kirbyandtherainbowcourse/WiiU_KirbyAndTheRainbowCourse_04.bmp",
+          "thumbnailUrl": "https://www.nintendo.com/eu/media/images/06_screenshots/games_5/wiiu_7/wiiu_kirbyandtherainbowcourse/WiiU_KirbyAndTheRainbowCourse_04_TM_Standard.png",
+          "sourceUrl": "https://www.nintendo.com/en-gb/Games/Wii-U-games/Kirby-and-the-Rainbow-Paintbrush-893013.html",
+          "alt": "Kirby and the Rainbow Curse 공식 스크린샷 28"
+        },
+        {
+          "id": "kirby-and-the-rainbow-curse-029",
+          "url": "https://www.nintendo.com/eu/media/images/06_screenshots/games_5/wiiu_7/wiiu_kirbyandtherainbowcourse/WiiU_KirbyAndTheRainbowCourse_05.bmp",
+          "thumbnailUrl": "https://www.nintendo.com/eu/media/images/06_screenshots/games_5/wiiu_7/wiiu_kirbyandtherainbowcourse/WiiU_KirbyAndTheRainbowCourse_05_TM_Standard.png",
+          "sourceUrl": "https://www.nintendo.com/en-gb/Games/Wii-U-games/Kirby-and-the-Rainbow-Paintbrush-893013.html",
+          "alt": "Kirby and the Rainbow Curse 공식 스크린샷 29"
+        },
+        {
+          "id": "kirby-and-the-rainbow-curse-030",
+          "url": "https://www.nintendo.com/eu/media/images/06_screenshots/games_5/wiiu_7/wiiu_kirbyandtherainbowcourse/WiiU_KirbyAndTheRainbowCourse_06.bmp",
+          "thumbnailUrl": "https://www.nintendo.com/eu/media/images/06_screenshots/games_5/wiiu_7/wiiu_kirbyandtherainbowcourse/WiiU_KirbyAndTheRainbowCourse_06_TM_Standard.png",
+          "sourceUrl": "https://www.nintendo.com/en-gb/Games/Wii-U-games/Kirby-and-the-Rainbow-Paintbrush-893013.html",
+          "alt": "Kirby and the Rainbow Curse 공식 스크린샷 30"
+        },
+        {
+          "id": "kirby-and-the-rainbow-curse-031",
+          "url": "https://www.nintendo.com/eu/media/images/06_screenshots/games_5/wiiu_7/wiiu_kirbyandtherainbowcourse/WiiU_KirbyAndTheRainbowCourse_07.bmp",
+          "thumbnailUrl": "https://www.nintendo.com/eu/media/images/06_screenshots/games_5/wiiu_7/wiiu_kirbyandtherainbowcourse/WiiU_KirbyAndTheRainbowCourse_07_TM_Standard.png",
+          "sourceUrl": "https://www.nintendo.com/en-gb/Games/Wii-U-games/Kirby-and-the-Rainbow-Paintbrush-893013.html",
+          "alt": "Kirby and the Rainbow Curse 공식 스크린샷 31"
+        },
+        {
+          "id": "kirby-and-the-rainbow-curse-032",
+          "url": "https://www.nintendo.com/eu/media/images/06_screenshots/games_5/wiiu_7/wiiu_kirbyandtherainbowcourse/WiiU_KirbyAndTheRainbowCourse_08.bmp",
+          "thumbnailUrl": "https://www.nintendo.com/eu/media/images/06_screenshots/games_5/wiiu_7/wiiu_kirbyandtherainbowcourse/WiiU_KirbyAndTheRainbowCourse_08_TM_Standard.png",
+          "sourceUrl": "https://www.nintendo.com/en-gb/Games/Wii-U-games/Kirby-and-the-Rainbow-Paintbrush-893013.html",
+          "alt": "Kirby and the Rainbow Curse 공식 스크린샷 32"
+        },
+        {
+          "id": "kirby-and-the-rainbow-curse-033",
+          "url": "https://www.nintendo.com/eu/media/images/06_screenshots/games_5/wiiu_7/wiiu_kirbyandtherainbowcourse/WiiU_KirbyAndTheRainbowCourse_09.bmp",
+          "thumbnailUrl": "https://www.nintendo.com/eu/media/images/06_screenshots/games_5/wiiu_7/wiiu_kirbyandtherainbowcourse/WiiU_KirbyAndTheRainbowCourse_09_TM_Standard.png",
+          "sourceUrl": "https://www.nintendo.com/en-gb/Games/Wii-U-games/Kirby-and-the-Rainbow-Paintbrush-893013.html",
+          "alt": "Kirby and the Rainbow Curse 공식 스크린샷 33"
+        },
+        {
+          "id": "kirby-and-the-rainbow-curse-034",
+          "url": "https://www.nintendo.com/eu/media/images/06_screenshots/games_5/wiiu_7/wiiu_kirbyandtherainbowcourse/WiiU_KirbyAndTheRainbowCourse_10.bmp",
+          "thumbnailUrl": "https://www.nintendo.com/eu/media/images/06_screenshots/games_5/wiiu_7/wiiu_kirbyandtherainbowcourse/WiiU_KirbyAndTheRainbowCourse_10_TM_Standard.png",
+          "sourceUrl": "https://www.nintendo.com/en-gb/Games/Wii-U-games/Kirby-and-the-Rainbow-Paintbrush-893013.html",
+          "alt": "Kirby and the Rainbow Curse 공식 스크린샷 34"
+        },
+        {
+          "id": "kirby-and-the-rainbow-curse-035",
+          "url": "https://www.nintendo.com/eu/media/images/06_screenshots/games_5/wiiu_7/wiiu_kirbyandtherainbowcourse/WiiU_KirbyAndTheRainbowCourse_11.bmp",
+          "thumbnailUrl": "https://www.nintendo.com/eu/media/images/06_screenshots/games_5/wiiu_7/wiiu_kirbyandtherainbowcourse/WiiU_KirbyAndTheRainbowCourse_11_TM_Standard.png",
+          "sourceUrl": "https://www.nintendo.com/en-gb/Games/Wii-U-games/Kirby-and-the-Rainbow-Paintbrush-893013.html",
+          "alt": "Kirby and the Rainbow Curse 공식 스크린샷 35"
+        },
+        {
+          "id": "kirby-and-the-rainbow-curse-036",
+          "url": "https://www.nintendo.com/eu/media/images/06_screenshots/games_5/wiiu_7/wiiu_kirbyandtherainbowcourse/WiiU_KirbyAndTheRainbowCourse_12.bmp",
+          "thumbnailUrl": "https://www.nintendo.com/eu/media/images/06_screenshots/games_5/wiiu_7/wiiu_kirbyandtherainbowcourse/WiiU_KirbyAndTheRainbowCourse_12_TM_Standard.png",
+          "sourceUrl": "https://www.nintendo.com/en-gb/Games/Wii-U-games/Kirby-and-the-Rainbow-Paintbrush-893013.html",
+          "alt": "Kirby and the Rainbow Curse 공식 스크린샷 36"
+        },
+        {
+          "id": "kirby-and-the-rainbow-curse-037",
+          "url": "https://www.nintendo.com/eu/media/images/06_screenshots/games_5/wiiu_7/wiiu_kirbyandtherainbowcourse/WiiU_KirbyAndTheRainbowCourse_13.bmp",
+          "thumbnailUrl": "https://www.nintendo.com/eu/media/images/06_screenshots/games_5/wiiu_7/wiiu_kirbyandtherainbowcourse/WiiU_KirbyAndTheRainbowCourse_13_TM_Standard.png",
+          "sourceUrl": "https://www.nintendo.com/en-gb/Games/Wii-U-games/Kirby-and-the-Rainbow-Paintbrush-893013.html",
+          "alt": "Kirby and the Rainbow Curse 공식 스크린샷 37"
+        },
+        {
+          "id": "kirby-and-the-rainbow-curse-038",
+          "url": "https://www.nintendo.com/eu/media/images/06_screenshots/games_5/wiiu_7/wiiu_kirbyandtherainbowcourse/WiiU_KirbyAndTheRainbowCourse_14.bmp",
+          "thumbnailUrl": "https://www.nintendo.com/eu/media/images/06_screenshots/games_5/wiiu_7/wiiu_kirbyandtherainbowcourse/WiiU_KirbyAndTheRainbowCourse_14_TM_Standard.png",
+          "sourceUrl": "https://www.nintendo.com/en-gb/Games/Wii-U-games/Kirby-and-the-Rainbow-Paintbrush-893013.html",
+          "alt": "Kirby and the Rainbow Curse 공식 스크린샷 38"
+        }
+      ],
+      "contentReviewNote": "첫 이미지는 직접 확인. 나머지는 공식 스크린샷 출처와 이미지 응답을 확인했으나 이번 수정에서 전체 내용을 개별 검수하지 않음."
+    },
+    {
+      "id": "yoshis-woolly-world",
+      "title": "Yoshi’s Woolly World",
+      "titleKo": "요시 울리 월드",
+      "dimension": "2.5D",
+      "tags": [
+        "털실",
+        "수공예",
+        "봉제 인형",
+        "파스텔"
+      ],
+      "camera": "측면",
+      "classificationNote": "털실과 직물 재질의 3D 모델로 표현한 측면 플랫포머",
+      "sourceUrl": "https://www.nintendo.com/en-gb/Games/Wii-U-games/Yoshi-s-Woolly-World-892537.html",
+      "sourceName": "Nintendo 공식 사이트",
+      "credit": "© Nintendo / Good-Feel",
+      "screenshots": [
+        {
+          "id": "yoshis-woolly-world-007",
+          "url": "https://www.nintendo.com/eu/media/images/06_screenshots/games_5/wiiu_7/wiiu_yoshiswoollyworld/WiiU_YoshisWoollyWorld_03.jpg",
+          "thumbnailUrl": "https://www.nintendo.com/eu/media/images/06_screenshots/games_5/wiiu_7/wiiu_yoshiswoollyworld/WiiU_YoshisWoollyWorld_03_TM_Standard.jpg",
+          "sourceUrl": "https://www.nintendo.com/en-gb/Games/Wii-U-games/Yoshi-s-Woolly-World-892537.html",
+          "alt": "Yoshi’s Woolly World 공식 스크린샷 7",
+          "kind": "gameplay",
+          "contentVerified": "이미지를 직접 열어 플레이 화면 확인"
+        },
+        {
+          "id": "yoshis-woolly-world-005",
+          "url": "https://www.nintendo.com/eu/media/images/06_screenshots/games_5/wiiu_7/wiiu_yoshiswoollyworld/WiiU_YoshisWoollyWorld_01.jpg",
+          "thumbnailUrl": "https://www.nintendo.com/eu/media/images/06_screenshots/games_5/wiiu_7/wiiu_yoshiswoollyworld/WiiU_YoshisWoollyWorld_01_TM_Standard.jpg",
+          "sourceUrl": "https://www.nintendo.com/en-gb/Games/Wii-U-games/Yoshi-s-Woolly-World-892537.html",
+          "alt": "Yoshi’s Woolly World 공식 스크린샷 5",
+          "kind": "gameplay",
+          "contentVerified": "이미지를 직접 열어 플레이 화면 확인"
+        },
+        {
+          "id": "yoshis-woolly-world-006",
+          "url": "https://www.nintendo.com/eu/media/images/06_screenshots/games_5/wiiu_7/wiiu_yoshiswoollyworld/WiiU_YoshisWoollyWorld_02.jpg",
+          "thumbnailUrl": "https://www.nintendo.com/eu/media/images/06_screenshots/games_5/wiiu_7/wiiu_yoshiswoollyworld/WiiU_YoshisWoollyWorld_02_TM_Standard.jpg",
+          "sourceUrl": "https://www.nintendo.com/en-gb/Games/Wii-U-games/Yoshi-s-Woolly-World-892537.html",
+          "alt": "Yoshi’s Woolly World 공식 스크린샷 6",
+          "kind": "gameplay",
+          "contentVerified": "이미지를 직접 열어 플레이 화면 확인"
+        },
+        {
+          "id": "yoshis-woolly-world-008",
+          "url": "https://www.nintendo.com/eu/media/images/06_screenshots/games_5/wiiu_7/wiiu_yoshiswoollyworld/WiiU_YoshisWoollyWorld_04.jpg",
+          "thumbnailUrl": "https://www.nintendo.com/eu/media/images/06_screenshots/games_5/wiiu_7/wiiu_yoshiswoollyworld/WiiU_YoshisWoollyWorld_04_TM_Standard.jpg",
+          "sourceUrl": "https://www.nintendo.com/en-gb/Games/Wii-U-games/Yoshi-s-Woolly-World-892537.html",
+          "alt": "Yoshi’s Woolly World 공식 스크린샷 8",
+          "kind": "gameplay",
+          "contentVerified": "이미지를 직접 열어 플레이 화면 확인"
+        },
+        {
+          "id": "yoshis-woolly-world-009",
+          "url": "https://www.nintendo.com/eu/media/images/06_screenshots/games_5/wiiu_7/wiiu_yoshiswoollyworld/WiiU_YoshisWoollyWorld_05.jpg",
+          "thumbnailUrl": "https://www.nintendo.com/eu/media/images/06_screenshots/games_5/wiiu_7/wiiu_yoshiswoollyworld/WiiU_YoshisWoollyWorld_05_TM_Standard.jpg",
+          "sourceUrl": "https://www.nintendo.com/en-gb/Games/Wii-U-games/Yoshi-s-Woolly-World-892537.html",
+          "alt": "Yoshi’s Woolly World 공식 스크린샷 9",
+          "kind": "gameplay",
+          "contentVerified": "이미지를 직접 열어 플레이 화면 확인"
+        },
+        {
+          "id": "yoshis-woolly-world-010",
+          "url": "https://www.nintendo.com/eu/media/images/06_screenshots/games_5/wiiu_7/wiiu_yoshiswoollyworld/WiiU_YoshisWoollyWorld_06.jpg",
+          "thumbnailUrl": "https://www.nintendo.com/eu/media/images/06_screenshots/games_5/wiiu_7/wiiu_yoshiswoollyworld/WiiU_YoshisWoollyWorld_06_TM_Standard.jpg",
+          "sourceUrl": "https://www.nintendo.com/en-gb/Games/Wii-U-games/Yoshi-s-Woolly-World-892537.html",
+          "alt": "Yoshi’s Woolly World 공식 스크린샷 10",
+          "kind": "gameplay",
+          "contentVerified": "이미지를 직접 열어 플레이 화면 확인"
+        },
+        {
+          "id": "yoshis-woolly-world-011",
+          "url": "https://www.nintendo.com/eu/media/images/06_screenshots/games_5/wiiu_7/wiiu_yoshiswoollyworld/WiiU_YoshisWoollyWorld_07.jpg",
+          "thumbnailUrl": "https://www.nintendo.com/eu/media/images/06_screenshots/games_5/wiiu_7/wiiu_yoshiswoollyworld/WiiU_YoshisWoollyWorld_07_TM_Standard.jpg",
+          "sourceUrl": "https://www.nintendo.com/en-gb/Games/Wii-U-games/Yoshi-s-Woolly-World-892537.html",
+          "alt": "Yoshi’s Woolly World 공식 스크린샷 11",
+          "kind": "gameplay",
+          "contentVerified": "이미지를 직접 열어 플레이 화면 확인"
+        },
+        {
+          "id": "yoshis-woolly-world-012",
+          "url": "https://www.nintendo.com/eu/media/images/06_screenshots/games_5/wiiu_7/wiiu_yoshiswoollyworld/WiiU_YoshisWoollyWorld_08.jpg",
+          "thumbnailUrl": "https://www.nintendo.com/eu/media/images/06_screenshots/games_5/wiiu_7/wiiu_yoshiswoollyworld/WiiU_YoshisWoollyWorld_08_TM_Standard.jpg",
+          "sourceUrl": "https://www.nintendo.com/en-gb/Games/Wii-U-games/Yoshi-s-Woolly-World-892537.html",
+          "alt": "Yoshi’s Woolly World 공식 스크린샷 12",
+          "kind": "gameplay",
+          "contentVerified": "이미지를 직접 열어 플레이 화면 확인"
+        },
+        {
+          "id": "yoshis-woolly-world-013",
+          "url": "https://www.nintendo.com/eu/media/images/06_screenshots/games_5/wiiu_7/wiiu_yoshiswoollyworld/WiiU_YoshisWoollyWorld_09.jpg",
+          "thumbnailUrl": "https://www.nintendo.com/eu/media/images/06_screenshots/games_5/wiiu_7/wiiu_yoshiswoollyworld/WiiU_YoshisWoollyWorld_09_TM_Standard.jpg",
+          "sourceUrl": "https://www.nintendo.com/en-gb/Games/Wii-U-games/Yoshi-s-Woolly-World-892537.html",
+          "alt": "Yoshi’s Woolly World 공식 스크린샷 13",
+          "kind": "gameplay",
+          "contentVerified": "이미지를 직접 열어 플레이 화면 확인"
+        },
+        {
+          "id": "yoshis-woolly-world-014",
+          "url": "https://www.nintendo.com/eu/media/images/06_screenshots/games_5/wiiu_7/wiiu_yoshiswoollyworld/WiiU_YoshisWoollyWorld_10.jpg",
+          "thumbnailUrl": "https://www.nintendo.com/eu/media/images/06_screenshots/games_5/wiiu_7/wiiu_yoshiswoollyworld/WiiU_YoshisWoollyWorld_10_TM_Standard.jpg",
+          "sourceUrl": "https://www.nintendo.com/en-gb/Games/Wii-U-games/Yoshi-s-Woolly-World-892537.html",
+          "alt": "Yoshi’s Woolly World 공식 스크린샷 14",
+          "kind": "gameplay",
+          "contentVerified": "이미지를 직접 열어 플레이 화면 확인"
+        }
+      ],
+      "contentReviewNote": "옵션, 스테이지 결과, 요시 컬렉션, 복구 안내 연출 4장을 제외. 10개 실제 플랫폼 플레이 화면만 유지."
+    },
+    {
+      "id": "super-mario-bros-wonder",
+      "title": "Super Mario Bros. Wonder",
+      "titleKo": "슈퍼 마리오브라더스 원더",
+      "dimension": "2.5D",
+      "tags": [
+        "카툰",
+        "선명한 색",
+        "과장된 표정",
+        "동화풍"
+      ],
+      "camera": "측면",
+      "classificationNote": "3D 모델과 원근 배경을 사용하는 측면 진행 게임",
+      "sourceUrl": "https://www.nintendo.com/en-gb/Games/Nintendo-Switch-games/Super-Mario-Bros-Wonder-2404150.html",
+      "sourceName": "Nintendo 공식 사이트",
+      "credit": "© Nintendo",
+      "screenshots": [
+        {
+          "id": "super-mario-bros-wonder-001",
+          "url": "https://www.nintendo.com/eu/media/images/06_screenshots/games_5/nintendo_switch_6/nswitch_supermariobroswonder/NSwitch_SuperMarioBrosWonder_01.jpg",
+          "thumbnailUrl": "https://www.nintendo.com/eu/media/images/06_screenshots/games_5/nintendo_switch_6/nswitch_supermariobroswonder/NSwitch_SuperMarioBrosWonder_01_TM_Standard.jpg",
+          "sourceUrl": "https://www.nintendo.com/en-gb/Games/Nintendo-Switch-games/Super-Mario-Bros-Wonder-2404150.html",
+          "alt": "Super Mario Bros. Wonder 공식 스크린샷 1",
+          "kind": "gameplay",
+          "contentVerified": "첫 이미지를 직접 열어 플레이 화면 확인"
+        },
+        {
+          "id": "super-mario-bros-wonder-002",
+          "url": "https://www.nintendo.com/eu/media/images/06_screenshots/games_5/nintendo_switch_6/nswitch_supermariobroswonder/NSwitch_SuperMarioBrosWonder_02.jpg",
+          "thumbnailUrl": "https://www.nintendo.com/eu/media/images/06_screenshots/games_5/nintendo_switch_6/nswitch_supermariobroswonder/NSwitch_SuperMarioBrosWonder_02_TM_Standard.jpg",
+          "sourceUrl": "https://www.nintendo.com/en-gb/Games/Nintendo-Switch-games/Super-Mario-Bros-Wonder-2404150.html",
+          "alt": "Super Mario Bros. Wonder 공식 스크린샷 2"
+        },
+        {
+          "id": "super-mario-bros-wonder-003",
+          "url": "https://www.nintendo.com/eu/media/images/06_screenshots/games_5/nintendo_switch_6/nswitch_supermariobroswonder/NSwitch_SuperMarioBrosWonder_03.jpg",
+          "thumbnailUrl": "https://www.nintendo.com/eu/media/images/06_screenshots/games_5/nintendo_switch_6/nswitch_supermariobroswonder/NSwitch_SuperMarioBrosWonder_03_TM_Standard.jpg",
+          "sourceUrl": "https://www.nintendo.com/en-gb/Games/Nintendo-Switch-games/Super-Mario-Bros-Wonder-2404150.html",
+          "alt": "Super Mario Bros. Wonder 공식 스크린샷 3"
+        },
+        {
+          "id": "super-mario-bros-wonder-004",
+          "url": "https://www.nintendo.com/eu/media/images/06_screenshots/games_5/nintendo_switch_6/nswitch_supermariobroswonder/NSwitch_SuperMarioBrosWonder_04.jpg",
+          "thumbnailUrl": "https://www.nintendo.com/eu/media/images/06_screenshots/games_5/nintendo_switch_6/nswitch_supermariobroswonder/NSwitch_SuperMarioBrosWonder_04_TM_Standard.jpg",
+          "sourceUrl": "https://www.nintendo.com/en-gb/Games/Nintendo-Switch-games/Super-Mario-Bros-Wonder-2404150.html",
+          "alt": "Super Mario Bros. Wonder 공식 스크린샷 4"
+        },
+        {
+          "id": "super-mario-bros-wonder-005",
+          "url": "https://www.nintendo.com/eu/media/images/06_screenshots/games_5/nintendo_switch_6/nswitch_supermariobroswonder/NSwitch_SuperMarioBrosWonder_05.jpg",
+          "thumbnailUrl": "https://www.nintendo.com/eu/media/images/06_screenshots/games_5/nintendo_switch_6/nswitch_supermariobroswonder/NSwitch_SuperMarioBrosWonder_05_TM_Standard.jpg",
+          "sourceUrl": "https://www.nintendo.com/en-gb/Games/Nintendo-Switch-games/Super-Mario-Bros-Wonder-2404150.html",
+          "alt": "Super Mario Bros. Wonder 공식 스크린샷 5"
+        },
+        {
+          "id": "super-mario-bros-wonder-006",
+          "url": "https://www.nintendo.com/eu/media/images/06_screenshots/games_5/nintendo_switch_6/nswitch_supermariobroswonder/NSwitch_SuperMarioBrosWonder_06.jpg",
+          "thumbnailUrl": "https://www.nintendo.com/eu/media/images/06_screenshots/games_5/nintendo_switch_6/nswitch_supermariobroswonder/NSwitch_SuperMarioBrosWonder_06_TM_Standard.jpg",
+          "sourceUrl": "https://www.nintendo.com/en-gb/Games/Nintendo-Switch-games/Super-Mario-Bros-Wonder-2404150.html",
+          "alt": "Super Mario Bros. Wonder 공식 스크린샷 6"
+        },
+        {
+          "id": "super-mario-bros-wonder-007",
+          "url": "https://www.nintendo.com/eu/media/images/06_screenshots/games_5/nintendo_switch_6/nswitch_supermariobroswonder/NSwitch_SuperMarioBrosWonder_07.jpg",
+          "thumbnailUrl": "https://www.nintendo.com/eu/media/images/06_screenshots/games_5/nintendo_switch_6/nswitch_supermariobroswonder/NSwitch_SuperMarioBrosWonder_07_TM_Standard.jpg",
+          "sourceUrl": "https://www.nintendo.com/en-gb/Games/Nintendo-Switch-games/Super-Mario-Bros-Wonder-2404150.html",
+          "alt": "Super Mario Bros. Wonder 공식 스크린샷 7"
+        },
+        {
+          "id": "super-mario-bros-wonder-008",
+          "url": "https://www.nintendo.com/eu/media/images/06_screenshots/games_5/nintendo_switch_6/nswitch_supermariobroswonder/NSwitch_SuperMarioBrosWonder_08.jpg",
+          "thumbnailUrl": "https://www.nintendo.com/eu/media/images/06_screenshots/games_5/nintendo_switch_6/nswitch_supermariobroswonder/NSwitch_SuperMarioBrosWonder_08_TM_Standard.jpg",
+          "sourceUrl": "https://www.nintendo.com/en-gb/Games/Nintendo-Switch-games/Super-Mario-Bros-Wonder-2404150.html",
+          "alt": "Super Mario Bros. Wonder 공식 스크린샷 8"
+        },
+        {
+          "id": "super-mario-bros-wonder-009",
+          "url": "https://www.nintendo.com/eu/media/images/06_screenshots/games_5/nintendo_switch_6/nswitch_supermariobroswonder/NSwitch_SuperMarioBrosWonder_09.jpg",
+          "thumbnailUrl": "https://www.nintendo.com/eu/media/images/06_screenshots/games_5/nintendo_switch_6/nswitch_supermariobroswonder/NSwitch_SuperMarioBrosWonder_09_TM_Standard.jpg",
+          "sourceUrl": "https://www.nintendo.com/en-gb/Games/Nintendo-Switch-games/Super-Mario-Bros-Wonder-2404150.html",
+          "alt": "Super Mario Bros. Wonder 공식 스크린샷 9"
+        },
+        {
+          "id": "super-mario-bros-wonder-010",
+          "url": "https://www.nintendo.com/eu/media/images/06_screenshots/games_5/nintendo_switch_6/nswitch_supermariobroswonder/NSwitch_SuperMarioBrosWonder_10.jpg",
+          "thumbnailUrl": "https://www.nintendo.com/eu/media/images/06_screenshots/games_5/nintendo_switch_6/nswitch_supermariobroswonder/NSwitch_SuperMarioBrosWonder_10_TM_Standard.jpg",
+          "sourceUrl": "https://www.nintendo.com/en-gb/Games/Nintendo-Switch-games/Super-Mario-Bros-Wonder-2404150.html",
+          "alt": "Super Mario Bros. Wonder 공식 스크린샷 10"
+        },
+        {
+          "id": "super-mario-bros-wonder-011",
+          "url": "https://www.nintendo.com/eu/media/images/06_screenshots/games_5/nintendo_switch_6/nswitch_supermariobroswonder/NSwitch_SuperMarioBrosWonder_11.jpg",
+          "thumbnailUrl": "https://www.nintendo.com/eu/media/images/06_screenshots/games_5/nintendo_switch_6/nswitch_supermariobroswonder/NSwitch_SuperMarioBrosWonder_11_TM_Standard.jpg",
+          "sourceUrl": "https://www.nintendo.com/en-gb/Games/Nintendo-Switch-games/Super-Mario-Bros-Wonder-2404150.html",
+          "alt": "Super Mario Bros. Wonder 공식 스크린샷 11"
+        },
+        {
+          "id": "super-mario-bros-wonder-012",
+          "url": "https://www.nintendo.com/eu/media/images/06_screenshots/games_5/nintendo_switch_6/nswitch_supermariobroswonder/NSwitch_SuperMarioBrosWonder_12.jpg",
+          "thumbnailUrl": "https://www.nintendo.com/eu/media/images/06_screenshots/games_5/nintendo_switch_6/nswitch_supermariobroswonder/NSwitch_SuperMarioBrosWonder_12_TM_Standard.jpg",
+          "sourceUrl": "https://www.nintendo.com/en-gb/Games/Nintendo-Switch-games/Super-Mario-Bros-Wonder-2404150.html",
+          "alt": "Super Mario Bros. Wonder 공식 스크린샷 12"
+        },
+        {
+          "id": "super-mario-bros-wonder-013",
+          "url": "https://www.nintendo.com/eu/media/images/06_screenshots/games_5/nintendo_switch_6/nswitch_supermariobroswonder/NSwitch_SuperMarioBrosWonder_13.jpg",
+          "thumbnailUrl": "https://www.nintendo.com/eu/media/images/06_screenshots/games_5/nintendo_switch_6/nswitch_supermariobroswonder/NSwitch_SuperMarioBrosWonder_13_TM_Standard.jpg",
+          "sourceUrl": "https://www.nintendo.com/en-gb/Games/Nintendo-Switch-games/Super-Mario-Bros-Wonder-2404150.html",
+          "alt": "Super Mario Bros. Wonder 공식 스크린샷 13"
+        },
+        {
+          "id": "super-mario-bros-wonder-014",
+          "url": "https://www.nintendo.com/eu/media/images/06_screenshots/games_5/nintendo_switch_6/nswitch_supermariobroswonder/NSwitch_SuperMarioBrosWonder_14.jpg",
+          "thumbnailUrl": "https://www.nintendo.com/eu/media/images/06_screenshots/games_5/nintendo_switch_6/nswitch_supermariobroswonder/NSwitch_SuperMarioBrosWonder_14_TM_Standard.jpg",
+          "sourceUrl": "https://www.nintendo.com/en-gb/Games/Nintendo-Switch-games/Super-Mario-Bros-Wonder-2404150.html",
+          "alt": "Super Mario Bros. Wonder 공식 스크린샷 14"
+        },
+        {
+          "id": "super-mario-bros-wonder-015",
+          "url": "https://www.nintendo.com/eu/media/images/06_screenshots/games_5/nintendo_switch_6/nswitch_supermariobroswonder/NSwitch_SuperMarioBrosWonder_15.jpg",
+          "thumbnailUrl": "https://www.nintendo.com/eu/media/images/06_screenshots/games_5/nintendo_switch_6/nswitch_supermariobroswonder/NSwitch_SuperMarioBrosWonder_15_TM_Standard.jpg",
+          "sourceUrl": "https://www.nintendo.com/en-gb/Games/Nintendo-Switch-games/Super-Mario-Bros-Wonder-2404150.html",
+          "alt": "Super Mario Bros. Wonder 공식 스크린샷 15"
+        },
+        {
+          "id": "super-mario-bros-wonder-016",
+          "url": "https://www.nintendo.com/eu/media/images/06_screenshots/games_5/nintendo_switch_6/nswitch_supermariobroswonder/NSwitch_SuperMarioBrosWonder_16.jpg",
+          "thumbnailUrl": "https://www.nintendo.com/eu/media/images/06_screenshots/games_5/nintendo_switch_6/nswitch_supermariobroswonder/NSwitch_SuperMarioBrosWonder_16_TM_Standard.jpg",
+          "sourceUrl": "https://www.nintendo.com/en-gb/Games/Nintendo-Switch-games/Super-Mario-Bros-Wonder-2404150.html",
+          "alt": "Super Mario Bros. Wonder 공식 스크린샷 16"
+        }
+      ],
+      "contentReviewNote": "첫 이미지는 직접 확인. 나머지는 공식 스크린샷 출처와 이미지 응답을 확인했으나 이번 수정에서 전체 내용을 개별 검수하지 않음."
+    },
+    {
+      "id": "paper-mario-the-origami-king",
+      "title": "Paper Mario: The Origami King",
+      "titleKo": "페이퍼 마리오 종이접기 킹",
+      "dimension": "3D",
+      "tags": [
+        "종이 공예",
+        "접힌 형태",
+        "디오라마",
+        "선명한 색"
+      ],
+      "camera": "입체 공간",
+      "classificationNote": "3D 무대에 평면 종이 캐릭터를 배치한 혼합 표현. 이동 공간 기준 3D로 분류",
+      "sourceUrl": "https://www.nintendo.com/en-gb/Games/Nintendo-Switch-games/Paper-Mario-The-Origami-King-1782440.html",
+      "sourceName": "Nintendo 공식 사이트",
+      "credit": "© Nintendo / Intelligent Systems",
+      "screenshots": [
+        {
+          "id": "paper-mario-the-origami-king-005",
+          "url": "https://www.nintendo.com/eu/media/images/06_screenshots/games_5/nintendo_switch_6/nswitch_papermariotheorigamiking/NSwitch_PaperMarioTheOrigamiKing_05.jpg",
+          "thumbnailUrl": "https://www.nintendo.com/eu/media/images/06_screenshots/games_5/nintendo_switch_6/nswitch_papermariotheorigamiking/NSwitch_PaperMarioTheOrigamiKing_05_TM_Standard.jpg",
+          "sourceUrl": "https://www.nintendo.com/en-gb/Games/Nintendo-Switch-games/Paper-Mario-The-Origami-King-1782440.html",
+          "alt": "Paper Mario: The Origami King 공식 스크린샷 5",
+          "kind": "gameplay",
+          "contentVerified": "이미지를 직접 열어 플레이 화면 확인"
+        },
+        {
+          "id": "paper-mario-the-origami-king-003",
+          "url": "https://www.nintendo.com/eu/media/images/06_screenshots/games_5/nintendo_switch_6/nswitch_papermariotheorigamiking/NSwitch_PaperMarioTheOrigamiKing_03.jpg",
+          "thumbnailUrl": "https://www.nintendo.com/eu/media/images/06_screenshots/games_5/nintendo_switch_6/nswitch_papermariotheorigamiking/NSwitch_PaperMarioTheOrigamiKing_03_TM_Standard.jpg",
+          "sourceUrl": "https://www.nintendo.com/en-gb/Games/Nintendo-Switch-games/Paper-Mario-The-Origami-King-1782440.html",
+          "alt": "Paper Mario: The Origami King 공식 스크린샷 3",
+          "kind": "gameplay",
+          "contentVerified": "이미지를 직접 열어 플레이 화면 확인"
+        },
+        {
+          "id": "paper-mario-the-origami-king-004",
+          "url": "https://www.nintendo.com/eu/media/images/06_screenshots/games_5/nintendo_switch_6/nswitch_papermariotheorigamiking/NSwitch_PaperMarioTheOrigamiKing_04.jpg",
+          "thumbnailUrl": "https://www.nintendo.com/eu/media/images/06_screenshots/games_5/nintendo_switch_6/nswitch_papermariotheorigamiking/NSwitch_PaperMarioTheOrigamiKing_04_TM_Standard.jpg",
+          "sourceUrl": "https://www.nintendo.com/en-gb/Games/Nintendo-Switch-games/Paper-Mario-The-Origami-King-1782440.html",
+          "alt": "Paper Mario: The Origami King 공식 스크린샷 4",
+          "kind": "gameplay",
+          "contentVerified": "이미지를 직접 열어 플레이 화면 확인"
+        },
+        {
+          "id": "paper-mario-the-origami-king-010",
+          "url": "https://www.nintendo.com/eu/media/images/06_screenshots/games_5/nintendo_switch_6/nswitch_papermariotheorigamiking/NSwitch_PaperMarioTheOrigamiKing_10.jpg",
+          "thumbnailUrl": "https://www.nintendo.com/eu/media/images/06_screenshots/games_5/nintendo_switch_6/nswitch_papermariotheorigamiking/NSwitch_PaperMarioTheOrigamiKing_10_TM_Standard.jpg",
+          "sourceUrl": "https://www.nintendo.com/en-gb/Games/Nintendo-Switch-games/Paper-Mario-The-Origami-King-1782440.html",
+          "alt": "Paper Mario: The Origami King 공식 스크린샷 10",
+          "kind": "gameplay",
+          "contentVerified": "이미지를 직접 열어 플레이 화면 확인"
+        },
+        {
+          "id": "paper-mario-the-origami-king-011",
+          "url": "https://www.nintendo.com/eu/media/images/06_screenshots/games_5/nintendo_switch_6/nswitch_papermariotheorigamiking/NSwitch_PaperMarioTheOrigamiKing_11.jpg",
+          "thumbnailUrl": "https://www.nintendo.com/eu/media/images/06_screenshots/games_5/nintendo_switch_6/nswitch_papermariotheorigamiking/NSwitch_PaperMarioTheOrigamiKing_11_TM_Standard.jpg",
+          "sourceUrl": "https://www.nintendo.com/en-gb/Games/Nintendo-Switch-games/Paper-Mario-The-Origami-King-1782440.html",
+          "alt": "Paper Mario: The Origami King 공식 스크린샷 11",
+          "kind": "gameplay",
+          "contentVerified": "이미지를 직접 열어 플레이 화면 확인"
+        },
+        {
+          "id": "paper-mario-the-origami-king-002",
+          "url": "https://www.nintendo.com/eu/media/images/06_screenshots/games_5/nintendo_switch_6/nswitch_papermariotheorigamiking/NSwitch_PaperMarioTheOrigamiKing_02.jpg",
+          "thumbnailUrl": "https://www.nintendo.com/eu/media/images/06_screenshots/games_5/nintendo_switch_6/nswitch_papermariotheorigamiking/NSwitch_PaperMarioTheOrigamiKing_02_TM_Standard.jpg",
+          "sourceUrl": "https://www.nintendo.com/en-gb/Games/Nintendo-Switch-games/Paper-Mario-The-Origami-King-1782440.html",
+          "alt": "Paper Mario: The Origami King 공식 스크린샷 2",
+          "kind": "gameplay",
+          "contentVerified": "이미지를 직접 열어 플레이 화면 확인"
+        },
+        {
+          "id": "paper-mario-the-origami-king-006",
+          "url": "https://www.nintendo.com/eu/media/images/06_screenshots/games_5/nintendo_switch_6/nswitch_papermariotheorigamiking/NSwitch_PaperMarioTheOrigamiKing_06.jpg",
+          "thumbnailUrl": "https://www.nintendo.com/eu/media/images/06_screenshots/games_5/nintendo_switch_6/nswitch_papermariotheorigamiking/NSwitch_PaperMarioTheOrigamiKing_06_TM_Standard.jpg",
+          "sourceUrl": "https://www.nintendo.com/en-gb/Games/Nintendo-Switch-games/Paper-Mario-The-Origami-King-1782440.html",
+          "alt": "Paper Mario: The Origami King 공식 스크린샷 6",
+          "kind": "gameplay",
+          "contentVerified": "이미지를 직접 열어 플레이 화면 확인"
+        },
+        {
+          "id": "paper-mario-the-origami-king-008",
+          "url": "https://www.nintendo.com/eu/media/images/06_screenshots/games_5/nintendo_switch_6/nswitch_papermariotheorigamiking/NSwitch_PaperMarioTheOrigamiKing_08.jpg",
+          "thumbnailUrl": "https://www.nintendo.com/eu/media/images/06_screenshots/games_5/nintendo_switch_6/nswitch_papermariotheorigamiking/NSwitch_PaperMarioTheOrigamiKing_08_TM_Standard.jpg",
+          "sourceUrl": "https://www.nintendo.com/en-gb/Games/Nintendo-Switch-games/Paper-Mario-The-Origami-King-1782440.html",
+          "alt": "Paper Mario: The Origami King 공식 스크린샷 8",
+          "kind": "gameplay",
+          "contentVerified": "이미지를 직접 열어 플레이 화면 확인"
+        },
+        {
+          "id": "paper-mario-the-origami-king-009",
+          "url": "https://www.nintendo.com/eu/media/images/06_screenshots/games_5/nintendo_switch_6/nswitch_papermariotheorigamiking/NSwitch_PaperMarioTheOrigamiKing_09.jpg",
+          "thumbnailUrl": "https://www.nintendo.com/eu/media/images/06_screenshots/games_5/nintendo_switch_6/nswitch_papermariotheorigamiking/NSwitch_PaperMarioTheOrigamiKing_09_TM_Standard.jpg",
+          "sourceUrl": "https://www.nintendo.com/en-gb/Games/Nintendo-Switch-games/Paper-Mario-The-Origami-King-1782440.html",
+          "alt": "Paper Mario: The Origami King 공식 스크린샷 9",
+          "kind": "gameplay",
+          "contentVerified": "이미지를 직접 열어 플레이 화면 확인"
+        },
+        {
+          "id": "paper-mario-the-origami-king-012",
+          "url": "https://www.nintendo.com/eu/media/images/06_screenshots/games_5/nintendo_switch_6/nswitch_papermariotheorigamiking/NSwitch_PaperMarioTheOrigamiKing_12.jpg",
+          "thumbnailUrl": "https://www.nintendo.com/eu/media/images/06_screenshots/games_5/nintendo_switch_6/nswitch_papermariotheorigamiking/NSwitch_PaperMarioTheOrigamiKing_12_TM_Standard.jpg",
+          "sourceUrl": "https://www.nintendo.com/en-gb/Games/Nintendo-Switch-games/Paper-Mario-The-Origami-King-1782440.html",
+          "alt": "Paper Mario: The Origami King 공식 스크린샷 12",
+          "kind": "gameplay",
+          "contentVerified": "이미지를 직접 열어 플레이 화면 확인"
+        }
+      ],
+      "contentReviewNote": "성을 감싼 리본 연출, 키노피오 단체 연출, 무대 공연 연출 3장을 제외. 월드 탐험과 전투 화면 10장 유지."
+    },
+    {
+      "id": "animal-crossing-new-horizons",
+      "title": "Animal Crossing: New Horizons",
+      "titleKo": "모여봐요 동물의 숲",
+      "dimension": "3D",
+      "tags": [
+        "파스텔",
+        "생활 소품",
+        "부드러운 조명",
+        "둥근 형태"
+      ],
+      "camera": "입체 공간",
+      "classificationNote": "3D 공간을 내려다보는 고정 중심 카메라; 재질과 소품 비례 참고",
+      "sourceUrl": "https://www.nintendo.com/en-gb/Games/Nintendo-Switch-games/Animal-Crossing-New-Horizons-1438623.html",
+      "sourceName": "Nintendo 공식 사이트",
+      "credit": "© Nintendo",
+      "screenshots": [
+        {
+          "id": "animal-crossing-new-horizons-001",
+          "url": "https://www.nintendo.com/eu/media/images/06_screenshots/games_5/nintendo_switch_6/nswitch_animalcrossingnewhorizons/NSwitch_AnimalCrossingNewHorizons_01.jpg",
+          "thumbnailUrl": "https://www.nintendo.com/eu/media/images/06_screenshots/games_5/nintendo_switch_6/nswitch_animalcrossingnewhorizons/NSwitch_AnimalCrossingNewHorizons_01_TM_Standard.jpg",
+          "sourceUrl": "https://www.nintendo.com/en-gb/Games/Nintendo-Switch-games/Animal-Crossing-New-Horizons-1438623.html",
+          "alt": "Animal Crossing: New Horizons 공식 스크린샷 1",
+          "kind": "gameplay",
+          "contentVerified": "첫 이미지를 직접 열어 플레이 화면 확인"
+        },
+        {
+          "id": "animal-crossing-new-horizons-002",
+          "url": "https://www.nintendo.com/eu/media/images/06_screenshots/games_5/nintendo_switch_6/nswitch_animalcrossingnewhorizons/NSwitch_AnimalCrossingNewHorizons_02.jpg",
+          "thumbnailUrl": "https://www.nintendo.com/eu/media/images/06_screenshots/games_5/nintendo_switch_6/nswitch_animalcrossingnewhorizons/NSwitch_AnimalCrossingNewHorizons_02_TM_Standard.jpg",
+          "sourceUrl": "https://www.nintendo.com/en-gb/Games/Nintendo-Switch-games/Animal-Crossing-New-Horizons-1438623.html",
+          "alt": "Animal Crossing: New Horizons 공식 스크린샷 2"
+        },
+        {
+          "id": "animal-crossing-new-horizons-003",
+          "url": "https://www.nintendo.com/eu/media/images/06_screenshots/games_5/nintendo_switch_6/nswitch_animalcrossingnewhorizons/NSwitch_AnimalCrossingNewHorizons_03.jpg",
+          "thumbnailUrl": "https://www.nintendo.com/eu/media/images/06_screenshots/games_5/nintendo_switch_6/nswitch_animalcrossingnewhorizons/NSwitch_AnimalCrossingNewHorizons_03_TM_Standard.jpg",
+          "sourceUrl": "https://www.nintendo.com/en-gb/Games/Nintendo-Switch-games/Animal-Crossing-New-Horizons-1438623.html",
+          "alt": "Animal Crossing: New Horizons 공식 스크린샷 3"
+        },
+        {
+          "id": "animal-crossing-new-horizons-004",
+          "url": "https://www.nintendo.com/eu/media/images/06_screenshots/games_5/nintendo_switch_6/nswitch_animalcrossingnewhorizons/NSwitch_AnimalCrossingNewHorizons_04.jpg",
+          "thumbnailUrl": "https://www.nintendo.com/eu/media/images/06_screenshots/games_5/nintendo_switch_6/nswitch_animalcrossingnewhorizons/NSwitch_AnimalCrossingNewHorizons_04_TM_Standard.jpg",
+          "sourceUrl": "https://www.nintendo.com/en-gb/Games/Nintendo-Switch-games/Animal-Crossing-New-Horizons-1438623.html",
+          "alt": "Animal Crossing: New Horizons 공식 스크린샷 4"
+        },
+        {
+          "id": "animal-crossing-new-horizons-005",
+          "url": "https://www.nintendo.com/eu/media/images/06_screenshots/games_5/nintendo_switch_6/nswitch_animalcrossingnewhorizons/NSwitch_AnimalCrossingNewHorizons_05.jpg",
+          "thumbnailUrl": "https://www.nintendo.com/eu/media/images/06_screenshots/games_5/nintendo_switch_6/nswitch_animalcrossingnewhorizons/NSwitch_AnimalCrossingNewHorizons_05_TM_Standard.jpg",
+          "sourceUrl": "https://www.nintendo.com/en-gb/Games/Nintendo-Switch-games/Animal-Crossing-New-Horizons-1438623.html",
+          "alt": "Animal Crossing: New Horizons 공식 스크린샷 5"
+        },
+        {
+          "id": "animal-crossing-new-horizons-006",
+          "url": "https://www.nintendo.com/eu/media/images/06_screenshots/games_5/nintendo_switch_6/nswitch_animalcrossingnewhorizons/NSwitch_AnimalCrossingNewHorizons_06.jpg",
+          "thumbnailUrl": "https://www.nintendo.com/eu/media/images/06_screenshots/games_5/nintendo_switch_6/nswitch_animalcrossingnewhorizons/NSwitch_AnimalCrossingNewHorizons_06_TM_Standard.jpg",
+          "sourceUrl": "https://www.nintendo.com/en-gb/Games/Nintendo-Switch-games/Animal-Crossing-New-Horizons-1438623.html",
+          "alt": "Animal Crossing: New Horizons 공식 스크린샷 6"
+        },
+        {
+          "id": "animal-crossing-new-horizons-007",
+          "url": "https://www.nintendo.com/eu/media/images/06_screenshots/games_5/nintendo_switch_6/nswitch_animalcrossingnewhorizons/NSwitch_AnimalCrossingNewHorizons_07.jpg",
+          "thumbnailUrl": "https://www.nintendo.com/eu/media/images/06_screenshots/games_5/nintendo_switch_6/nswitch_animalcrossingnewhorizons/NSwitch_AnimalCrossingNewHorizons_07_TM_Standard.jpg",
+          "sourceUrl": "https://www.nintendo.com/en-gb/Games/Nintendo-Switch-games/Animal-Crossing-New-Horizons-1438623.html",
+          "alt": "Animal Crossing: New Horizons 공식 스크린샷 7"
+        },
+        {
+          "id": "animal-crossing-new-horizons-008",
+          "url": "https://www.nintendo.com/eu/media/images/06_screenshots/games_5/nintendo_switch_6/nswitch_animalcrossingnewhorizons/NSwitch_AnimalCrossingNewHorizons_08.jpg",
+          "thumbnailUrl": "https://www.nintendo.com/eu/media/images/06_screenshots/games_5/nintendo_switch_6/nswitch_animalcrossingnewhorizons/NSwitch_AnimalCrossingNewHorizons_08_TM_Standard.jpg",
+          "sourceUrl": "https://www.nintendo.com/en-gb/Games/Nintendo-Switch-games/Animal-Crossing-New-Horizons-1438623.html",
+          "alt": "Animal Crossing: New Horizons 공식 스크린샷 8"
+        },
+        {
+          "id": "animal-crossing-new-horizons-009",
+          "url": "https://www.nintendo.com/eu/media/images/06_screenshots/games_5/nintendo_switch_6/nswitch_animalcrossingnewhorizons/NSwitch_AnimalCrossingNewHorizons_09.jpg",
+          "thumbnailUrl": "https://www.nintendo.com/eu/media/images/06_screenshots/games_5/nintendo_switch_6/nswitch_animalcrossingnewhorizons/NSwitch_AnimalCrossingNewHorizons_09_TM_Standard.jpg",
+          "sourceUrl": "https://www.nintendo.com/en-gb/Games/Nintendo-Switch-games/Animal-Crossing-New-Horizons-1438623.html",
+          "alt": "Animal Crossing: New Horizons 공식 스크린샷 9"
+        },
+        {
+          "id": "animal-crossing-new-horizons-010",
+          "url": "https://www.nintendo.com/eu/media/images/06_screenshots/games_5/nintendo_switch_6/nswitch_animalcrossingnewhorizons/NSwitch_AnimalCrossingNewHorizons_10.jpg",
+          "thumbnailUrl": "https://www.nintendo.com/eu/media/images/06_screenshots/games_5/nintendo_switch_6/nswitch_animalcrossingnewhorizons/NSwitch_AnimalCrossingNewHorizons_10_TM_Standard.jpg",
+          "sourceUrl": "https://www.nintendo.com/en-gb/Games/Nintendo-Switch-games/Animal-Crossing-New-Horizons-1438623.html",
+          "alt": "Animal Crossing: New Horizons 공식 스크린샷 10"
+        }
+      ],
+      "contentReviewNote": "첫 이미지는 직접 확인. 나머지는 공식 스크린샷 출처와 이미지 응답을 확인했으나 이번 수정에서 전체 내용을 개별 검수하지 않음."
+    }
+  ],
+  "verification": {
+    "method": "원문 HTML에서 URL 추출 및 이미지 HEAD 응답 확인. 내용 검수 범위는 각 게임 contentReviewNote와 각 이미지 contentVerified 참조.",
+    "imageCount": 144,
+    "issues": [],
+    "contentReview": "Yoshi Crafted 12장, Kirby Return 9장, Kirby Star Allies 5장, Yoshi Woolly 10장, Paper Mario 10장을 직접 시각 검수. 나머지 게임은 대표 첫 이미지 시각 검수.",
+    "removed": "스토리 컷, 연출 컷, 메뉴를 확인한 범위에서 제외하고 실제 플레이 화면을 첫 이미지로 배치."
+  }
+}
