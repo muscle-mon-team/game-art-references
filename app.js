@@ -54,7 +54,7 @@ function matchingGames() {
     if (state.game && game.id !== state.game) return false;
     if (state.dimension && game.dimension !== state.dimension) return false;
     if (state.style && !game.tags.includes(state.style)) return false;
-    if (state.side && !['횡스크롤', '깊이 있는 측면', '벨트스크롤'].includes(game.camera)) return false;
+    if (state.side && !['횡스크롤', '측면(세로 스크롤)', '깊이 있는 측면', '벨트스크롤'].includes(game.camera)) return false;
     if (state.library === 'favorites' && !gameShots(game).length) return false;
     return terms.every((term) => game.searchIndex.includes(term));
   });
