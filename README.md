@@ -1,10 +1,27 @@
 # FRAME — 게임 아트 레퍼런스
 
-Muscle Mon의 비주얼 방향을 탐색하기 위한 공개 스크린샷 라이브러리입니다.
+Muscle Mon의 비주얼 방향을 탐색하기 위한 공개 게임 아트 레퍼런스 라이브러리입니다. 실제 게임의 스크린샷을 모아 색감, 질감, 캐릭터 비례, 배경 구성과 전투 시인성을 비교합니다.
 
-**웹:** https://muscle-mon-team.github.io/game-art-references/
+**[웹 갤러리 열기](https://muscle-mon-team.github.io/game-art-references/)**
 
 현재 카탈로그는 `data/catalog.json`에 있습니다. 게임과 이미지 수는 웹에서 해당 파일을 기준으로 계산합니다.
+
+## 처음 온 사람에게
+
+| 하고 싶은 일 | 먼저 볼 문서 |
+| --- | --- |
+| 화면을 둘러보고 마음에 드는 장면 고르기 | [웹 갤러리](https://muscle-mon-team.github.io/game-art-references/)와 아래 [둘러보기](#둘러보기) |
+| 새로운 레퍼런스를 찾거나 게임 추가하기 | [기여 지침서](CONTRIBUTING.md) |
+| 분류, 태그, 출처, 깨진 이미지 수정하기 | [기여 지침서의 검증과 수정 절차](CONTRIBUTING.md#검증과-수정) |
+| AI 에이전트에게 이 저장소 작업 맡기기 | [에이전트 작업 지침](AGENTS.md)과 [요청 예시](CONTRIBUTING.md#작업-요청-예시) |
+
+## 이 저장소의 목적과 범위
+
+- 귀여운 동화풍, 장난감, 클레이, 공예풍을 중심으로 여러 비주얼 방향을 비교합니다. 손그림, 픽셀아트, 어두운 화면과 런앤건도 비교 자료로 포함합니다.
+- 특정 디자인을 미리 확정하지 않고, 좋아하는 장면을 모으면서 원하는 방향을 구체화합니다. 현재 Muscle Mon 캐릭터나 배경을 유지한다는 전제를 두지 않습니다.
+- PC, 콘솔, 모바일 모두 수집 대상입니다. 현재 목록은 Steam과 Nintendo 자료 위주로 시작한 선별 모음이며, 모바일을 포함한 모든 게임을 망라하지 않습니다. 목록에 없다고 제외 대상으로 정한 것은 아닙니다.
+- 게임 소스나 실행 파일을 개발하는 저장소는 아닙니다. 실제 게임 프로젝트인 `Muscle-Mon_Godot`과 분리되어 있습니다.
+- 스크린샷은 감상과 비교를 위한 자료입니다. 이 저장소가 게임 제작에 사용할 모델, 텍스처나 재사용 라이선스를 제공하지는 않습니다.
 
 ## 둘러보기
 
@@ -49,25 +66,23 @@ python3 -m http.server 8000
 
 ## 자료 갱신
 
-```sh
-python3 scripts/collect_steam.py
-python3 scripts/build_catalog.py
-python3 scripts/verify_catalog.py
-node --check app.js
-```
+추가 경로, 입력 형식, 실행 순서는 [기여 지침서](CONTRIBUTING.md)에 있습니다. 먼저 원본 데이터를 수정한 뒤 카탈로그를 생성합니다. `data/catalog.json`만 직접 수정하면 다음 생성 때 변경이 사라집니다.
 
-- `data/steam-seeds.tsv`: 수집할 Steam 게임과 사람이 정리한 분류, 태그
-- `data/steam-catalog.json`: 제작사 제공 스토어 이미지 URL과 출처 메타데이터
-- `data/console-sources.json`: 공식 Nintendo 페이지에서 확인한 이미지 URL과 출처
-- `data/catalog.json`: 웹에서 읽는 통합 카탈로그
-- `data/collection-errors.json`: 수집 중 실패한 항목. 오류를 정상적인 빈 목록으로 바꾸지 않습니다.
-- `scripts/collect_steam.py --refresh`: 캐시를 쓰지 않고 Steam 목록 다시 수집
-- `scripts/verify_catalog.py --images`: 전체 썸네일과 원본의 이미지 HTTP 응답 확인. 결과는 `data/verification.json`에 기록
+| 파일 | 역할 |
+| --- | --- |
+| `data/steam-seeds.tsv` | 수집할 Steam 앱 ID와 사람이 정한 분류, 태그, 관찰 포인트 |
+| `data/steam-catalog.json` | Steam 수집기가 생성한 이미지 URL과 출처 데이터 |
+| `data/console-sources.json` | 공식 페이지에서 확인해 수동으로 정리한 자료. 현재 Nintendo 자료가 있으며 같은 형식으로 모바일과 다른 제작사의 자료도 추가 가능 |
+| `data/catalog.json` | 두 자료를 합쳐 웹에서 읽는 생성 파일 |
+| `data/collection-errors.json` | 마지막 Steam 수집에서 실패한 항목 |
+| `data/verification.json` | 마지막 전체 이미지 HTTP 검증 결과. 실행 시점의 기록이며 실시간 상태는 아님 |
+| `index.html`, `styles.css`, `app.js` | 갤러리의 구조, 스타일, 검색과 표시 및 브라우저 내 선택 저장 |
+| `scripts/` | 자료 수집, 카탈로그 생성, 데이터와 이미지 주소 검증 |
 
-새 게임은 ID와 실제 스토어 제목의 일치 여부를 확인한 뒤 추가합니다. 게임 이름과 다른 앱, 사운드트랙, 이미지 중복은 카탈로그에 넣지 않습니다. 이미지 URL의 HTTP 성공은 실제 장면의 내용 검수를 대신하지 않습니다.
+HTTP 이미지 응답 성공과 실제 플레이 화면 확인은 서로 다른 검증입니다. 검색 결과의 썸네일이나 정상 응답만 보고 메뉴, 컷신, 홍보 그림을 플레이 화면으로 기록하지 않습니다.
 
 ## 배포
 
 GitHub Pages가 `main` 브랜치의 루트 폴더를 게시합니다. `.nojekyll` 파일로 Jekyll 처리를 생략하며, 정적 HTML/CSS/JavaScript와 JSON만 사용합니다. 서버, 데이터베이스, API 키는 필요하지 않습니다.
 
-기존 `Muscle-Mon_Godot` 게임 저장소와 분리되어 있습니다.
+원격 반영과 공개는 작업 요청이나 유지보수 권한의 범위 안에서 진행합니다. 로컬 수정, GitHub 반영, Pages 빌드 완료, 실제 웹 표시 확인을 구분해서 기록합니다.
